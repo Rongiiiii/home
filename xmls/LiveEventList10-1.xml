@@ -119,7 +119,7 @@
             <EventSubType>504</EventSubType>
             <EventStep>1</EventStep>
             <EffectiveTime>2023-11-27T12:30:00+08:00</EffectiveTime>
-            <!-- <ExpireTime>2023-09-27T18:30:00+08:00</ExpireTime> -->
+            <!-- <ExpireTime>2024-03-01T18:30:00+08:00</ExpireTime> -->
             <PositionLon>33.33333</PositionLon>
             <PositionLat>44.44444</PositionLat>
             <Geometry/>
@@ -173,7 +173,7 @@
             <EventSubType>204</EventSubType>
             <EventStep>1</EventStep>
             <EffectiveTime>2023-09-27T12:30:00+08:00</EffectiveTime>
-            <ExpireTime>2023-09-27T18:30:00+08:00</ExpireTime>
+            <ExpireTime>2024-03-01T18:30:00+08:00</ExpireTime>
             <PositionLon>22.99368</PositionLon>
             <PositionLat>120.22216</PositionLat>
             <Geometry/>
@@ -227,7 +227,7 @@
             <EventSubType>204</EventSubType>
             <EventStep>1</EventStep>
             <EffectiveTime>2023-09-27T12:30:00+08:00</EffectiveTime>
-            <ExpireTime>2023-09-27T18:30:00+08:00</ExpireTime>
+            <ExpireTime>2024-03-01T18:30:00+08:00</ExpireTime>
             <PositionLon>22.99368</PositionLon>
             <PositionLat>120.22216</PositionLat>
             <Geometry/>
@@ -288,7 +288,7 @@
             <EventSubType>204</EventSubType>
             <EventStep>1</EventStep>
             <EffectiveTime>2023-09-27T12:30:00+08:00</EffectiveTime>
-            <ExpireTime>2023-09-27T18:30:00+08:00</ExpireTime>
+            <ExpireTime>2024-03-01T18:30:00+08:00</ExpireTime>
             <PositionLon>22.99368</PositionLon>
             <PositionLat>120.22216</PositionLat>
             <Geometry/>
@@ -342,7 +342,7 @@
             <EventSubType>204</EventSubType>
             <EventStep>1</EventStep>
             <EffectiveTime>2023-09-27T12:30:00+08:00</EffectiveTime>
-            <ExpireTime>2023-09-27T18:30:00+08:00</ExpireTime>
+            <ExpireTime>2024-03-01T18:30:00+08:00</ExpireTime>
             <PositionLon>22.99368</PositionLon>
             <PositionLat>120.22216</PositionLat>
             <Geometry/>
@@ -396,7 +396,7 @@
             <EventSubType>204</EventSubType>
             <EventStep>1</EventStep>
             <EffectiveTime>2023-09-27T12:30:00+08:00</EffectiveTime>
-            <ExpireTime>2023-09-27T18:30:00+08:00</ExpireTime>
+            <ExpireTime>2024-03-01T18:30:00+08:00</ExpireTime>
             <PositionLon>22.99368</PositionLon>
             <PositionLat>120.22216</PositionLat>
             <Geometry/>
@@ -450,7 +450,7 @@
             <EventSubType>204</EventSubType>
             <EventStep>1</EventStep>
             <EffectiveTime>2023-09-27T12:30:00+08:00</EffectiveTime>
-            <ExpireTime>2023-09-27T18:30:00+08:00</ExpireTime>
+            <ExpireTime>2024-03-01T18:30:00+08:00</ExpireTime>
             <PositionLon>22.99368</PositionLon>
             <PositionLat>120.22216</PositionLat>
             <Geometry/>
@@ -504,7 +504,7 @@
             <EventSubType>204</EventSubType>
             <EventStep>1</EventStep>
             <EffectiveTime>2023-09-27T12:30:00+08:00</EffectiveTime>
-            <ExpireTime>2023-09-27T18:30:00+08:00</ExpireTime>
+            <ExpireTime>2024-03-01T18:30:00+08:00</ExpireTime>
             <PositionLon>22.99368</PositionLon>
             <PositionLat>120.22216</PositionLat>
             <Geometry/>
