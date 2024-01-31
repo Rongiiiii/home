@@ -1,10 +1,10 @@
 <LiveEventList>
-    <UpdateTime>2023-11-27T12:00:00+08:00</UpdateTime>
+    <UpdateTime>2024-01-31T12:00:00+08:00</UpdateTime>
     <UpdateInterval>86400</UpdateInterval>
     <AuthorityCode>TPE</AuthorityCode>
     <LiveEvents>
         <LiveEvent>
-            <EventID>TPE20231023-1</EventID>
+            <EventID>TPE20240131-1</EventID>
             <EventTitle>(原本的001-第一報)長榮路三段(小東路往大學路南下方向)施工訊息</EventTitle>
             <Description>本府水利局辦理「臺南市虎尾寮污水下水道系統分支管網工程第一標....</Description>
             <EventType>3</EventType>
@@ -58,7 +58,7 @@
             <LastUpdateTime>2024-03-01T18:00:00+08:00</LastUpdateTime>
         </LiveEvent>
         <LiveEvent>
-            <EventID>TPE20231023-2</EventID>
+            <EventID>TPE20240131-2</EventID>
             <EventTitle>(原本的001-第一報)長榮路三段(小東路往大學路南下方向)施工訊息</EventTitle>
             <Description>本府水利局辦理「臺南市虎尾寮污水下水道系統分支管網工程第一標....</Description>
             <EventType>1</EventType>
@@ -112,7 +112,7 @@
             <LastUpdateTime>2023-11-28T18:00:00+08:00</LastUpdateTime>
         </LiveEvent>
         <LiveEvent>
-            <EventID>TPE20231023-3</EventID>
+            <EventID>TPE20240131-3</EventID>
             <EventTitle>(原本的001-第一報)長榮路三段(小東路往大學路南下方向)施工訊息</EventTitle>
             <Description>本府水利局辦理「臺南市虎尾寮污水下水道系統分支管網工程第一標....</Description>
             <EventType>5</EventType>
@@ -166,7 +166,7 @@
             <LastUpdateTime>2023-11-27T18:00:00+08:00</LastUpdateTime>
         </LiveEvent>
         <LiveEvent>
-            <EventID>TPE20231023-4</EventID>
+            <EventID>TPE20240131-4</EventID>
             <EventTitle>(原本的001-第一報)長榮路三段(小東路往大學路南下方向)施工訊息</EventTitle>
             <Description>本府水利局辦理「臺南市虎尾寮污水下水道系統分支管網工程第一標....</Description>
             <EventType>2</EventType>
@@ -220,7 +220,7 @@
             <LastUpdateTime>2024-03-01T18:00:00+08:00</LastUpdateTime>
         </LiveEvent>
         <LiveEvent>
-            <EventID>TPE20231023-5</EventID>
+            <EventID>TPE20240131-5</EventID>
             <EventTitle>(原本的001-第一報)長榮路三段(小東路往大學路南下方向)施工訊息</EventTitle>
             <Description>本府水利局辦理「臺南市虎尾寮污水下水道系統分支管網工程第一標....</Description>
             <EventType>2</EventType>
@@ -281,7 +281,7 @@
             <LastUpdateTime>2024-03-01T18:00:00+08:00</LastUpdateTime>
         </LiveEvent>
         <LiveEvent>
-            <EventID>TPE20231023-6</EventID>
+            <EventID>TPE20240131-6</EventID>
             <EventTitle>(原本的001-第一報)長榮路三段(小東路往大學路南下方向)施工訊息</EventTitle>
             <Description>本府水利局辦理「臺南市虎尾寮污水下水道系統分支管網工程第一標....</Description>
             <EventType>2</EventType>
@@ -335,7 +335,7 @@
             <LastUpdateTime>2024-03-01T18:00:00+08:00</LastUpdateTime>
         </LiveEvent>
         <LiveEvent>
-            <EventID>TPE20231023-7</EventID>
+            <EventID>TPE20240131-7</EventID>
             <EventTitle>(原本的001-第一報)長榮路三段(小東路往大學路南下方向)施工訊息</EventTitle>
             <Description>本府水利局辦理「臺南市虎尾寮污水下水道系統分支管網工程第一標....</Description>
             <EventType>2</EventType>
@@ -389,7 +389,7 @@
             <LastUpdateTime>2024-03-01T18:00:00+08:00</LastUpdateTime>
         </LiveEvent>
         <LiveEvent>
-            <EventID>TPE20231023-8</EventID>
+            <EventID>TPE20240131-8</EventID>
             <EventTitle>(原本的001-第一報)長榮路三段(小東路往大學路南下方向)施工訊息</EventTitle>
             <Description>本府水利局辦理「臺南市虎尾寮污水下水道系統分支管網工程第一標....</Description>
             <EventType>2</EventType>
@@ -443,7 +443,7 @@
             <LastUpdateTime>2024-03-01T18:00:00+08:00</LastUpdateTime>
         </LiveEvent>
         <LiveEvent>
-            <EventID>TPE20231023-9</EventID>
+            <EventID>TPE20240131-9</EventID>
             <EventTitle>(原本的001-第一報)長榮路三段(小東路往大學路南下方向)施工訊息</EventTitle>
             <Description>本府水利局辦理「臺南市虎尾寮污水下水道系統分支管網工程第一標....</Description>
             <EventType>2</EventType>
@@ -497,7 +497,7 @@
             <LastUpdateTime>2024-03-01T18:00:00+08:00</LastUpdateTime>
         </LiveEvent>
         <LiveEvent>
-            <EventID>TPE20231023-10</EventID>
+            <EventID>TPE20240131-10</EventID>
             <EventTitle>(原本的001-第一報)長榮路三段(小東路往大學路南下方向)施工訊息</EventTitle>
             <Description>本府水利局辦理「臺南市虎尾寮污水下水道系統分支管網工程第一標....</Description>
             <EventType>2</EventType>
