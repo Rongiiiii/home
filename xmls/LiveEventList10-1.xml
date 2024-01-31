@@ -11,7 +11,7 @@
             <EventSubType>302</EventSubType>
             <EventStep>2</EventStep>
             <EffectiveTime>2023-11-27T12:30:00+08:00</EffectiveTime>
-            <ExpireTime>2023-11-27T18:30:00+08:00</ExpireTime>
+            <ExpireTime>2024-03-01T18:30:00+08:00</ExpireTime>
             <PositionLat>120.90000</PositionLat>
             <PositionLon>22.90000</PositionLon>
             <Geometry/>
@@ -55,7 +55,7 @@
             </AttachmentURLs>
             <Source>台南市智慧交安科 </Source>
             <PublishTime>2023-09-27T12:00:00+08:00</PublishTime>
-            <LastUpdateTime>2023-09-27T18:00:00+08:00</LastUpdateTime>
+            <LastUpdateTime>2024-03-01T18:00:00+08:00</LastUpdateTime>
         </LiveEvent>
         <LiveEvent>
             <EventID>TPE20231023-2</EventID>
@@ -65,7 +65,7 @@
             <EventSubType>104</EventSubType>
             <EventStep>3</EventStep>
             <EffectiveTime>2023-11-27T12:30:00+08:00</EffectiveTime>
-            <ExpireTime>2023-11-27T18:30:00+08:00</ExpireTime>
+            <ExpireTime>2024-03-01T18:30:00+08:00</ExpireTime>
             <PositionLon>22.99368</PositionLon>
             <PositionLat>120.22216</PositionLat>
             <Geometry/>
@@ -217,7 +217,7 @@
             </AttachmentURLs>
             <Source>台南市智慧交安科 </Source>
             <PublishTime>2023-09-27T12:00:00+08:00</PublishTime>
-            <LastUpdateTime>2023-09-27T18:00:00+08:00</LastUpdateTime>
+            <LastUpdateTime>2024-03-01T18:00:00+08:00</LastUpdateTime>
         </LiveEvent>
         <LiveEvent>
             <EventID>TPE20231023-5</EventID>
@@ -278,7 +278,7 @@
             </AttachmentURLs>
             <Source>台南市智慧交安科 </Source>
             <PublishTime>2023-09-27T12:00:00+08:00</PublishTime>
-            <LastUpdateTime>2023-09-27T18:00:00+08:00</LastUpdateTime>
+            <LastUpdateTime>2024-03-01T18:00:00+08:00</LastUpdateTime>
         </LiveEvent>
         <LiveEvent>
             <EventID>TPE20231023-6</EventID>
@@ -332,7 +332,7 @@
             </AttachmentURLs>
             <Source>台南市智慧交安科 </Source>
             <PublishTime>2023-09-27T12:00:00+08:00</PublishTime>
-            <LastUpdateTime>2023-09-27T18:00:00+08:00</LastUpdateTime>
+            <LastUpdateTime>2024-03-01T18:00:00+08:00</LastUpdateTime>
         </LiveEvent>
         <LiveEvent>
             <EventID>TPE20231023-7</EventID>
@@ -386,7 +386,7 @@
             </AttachmentURLs>
             <Source>台南市智慧交安科 </Source>
             <PublishTime>2023-09-27T12:00:00+08:00</PublishTime>
-            <LastUpdateTime>2023-09-27T18:00:00+08:00</LastUpdateTime>
+            <LastUpdateTime>2024-03-01T18:00:00+08:00</LastUpdateTime>
         </LiveEvent>
         <LiveEvent>
             <EventID>TPE20231023-8</EventID>
@@ -440,7 +440,7 @@
             </AttachmentURLs>
             <Source>台南市智慧交安科 </Source>
             <PublishTime>2023-09-27T12:00:00+08:00</PublishTime>
-            <LastUpdateTime>2023-09-27T18:00:00+08:00</LastUpdateTime>
+            <LastUpdateTime>2024-03-01T18:00:00+08:00</LastUpdateTime>
         </LiveEvent>
         <LiveEvent>
             <EventID>TPE20231023-9</EventID>
@@ -494,7 +494,7 @@
             </AttachmentURLs>
             <Source>台南市智慧交安科 </Source>
             <PublishTime>2023-09-27T12:00:00+08:00</PublishTime>
-            <LastUpdateTime>2023-09-27T18:00:00+08:00</LastUpdateTime>
+            <LastUpdateTime>2024-03-01T18:00:00+08:00</LastUpdateTime>
         </LiveEvent>
         <LiveEvent>
             <EventID>TPE20231023-10</EventID>
@@ -548,7 +548,7 @@
             </AttachmentURLs>
             <Source>台南市智慧交安科 </Source>
             <PublishTime>2023-09-27T12:00:00+08:00</PublishTime>
-            <LastUpdateTime>2023-09-27T18:00:00+08:00</LastUpdateTime>
+            <LastUpdateTime>2024-03-01T18:00:00+08:00</LastUpdateTime>
         </LiveEvent>
     </LiveEvents>
 </LiveEventList>

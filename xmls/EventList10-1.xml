@@ -1,5 +1,5 @@
 <EventList>
-    <UpdateTime>2023-11-28T12:00:00+08:00</UpdateTime>
+    <UpdateTime>2024-03-01T12:00:00+08:00</UpdateTime>
     <UpdateInterval>86400</UpdateInterval>
     <AuthorityCode>TPE</AuthorityCode>
     <Events>
@@ -11,7 +11,7 @@
             <EventSubType>502</EventSubType>
             <!-- <EventStep>1</EventStep> -->
             <EffectiveTime>2023-10-28T12:00:00+08:00</EffectiveTime>
-            <ExpireTime>2023-11-28T18:00:00+08:00</ExpireTime>
+            <ExpireTime>2024-03-01T18:00:00+08:00</ExpireTime>
             <PositionLat>120.90000</PositionLat>
             <PositionLon>22.90000</PositionLon>
             <Geometry/>
@@ -68,7 +68,7 @@
             <WebURL>https://traffic.tainan.gov.tw/ActivitiesDetailC004120.aspx?Cond=7ec19b5e-14fb-4fe7-8d1c-6d503ea969a1</WebURL>
             <Source>台南市智慧交安科 </Source>
             <PublishTime>2023-09-28T12:00:00+08:00</PublishTime>
-            <LastUpdateTime>2023-09-28T20:00:00+08:00</LastUpdateTime>
+            <LastUpdateTime>2024-03-01T20:00:00+08:00</LastUpdateTime>
         </Event>
         <Event>
             <EventID>TPE20231023-002</EventID>
@@ -135,7 +135,7 @@
             <WebURL>https://traffic.tainan.gov.tw/ActivitiesDetailC004120.aspx?Cond=7ec19b5e-14fb-4fe7-8d1c-6d503ea969a1</WebURL>
             <Source>台南市智慧交安科 </Source>
             <PublishTime>2023-09-28T12:00:00+08:00</PublishTime>
-            <LastUpdateTime>2023-09-28T20:00:00+08:00</LastUpdateTime>
+            <LastUpdateTime>2024-03-01T20:00:00+08:00</LastUpdateTime>
         </Event>
         <Event>
             <EventID>TPE20231023-003</EventID>
@@ -202,7 +202,7 @@
             <WebURL>https://traffic.tainan.gov.tw/ActivitiesDetailC004120.aspx?Cond=7ec19b5e-14fb-4fe7-8d1c-6d503ea969a1</WebURL>
             <Source>台南市智慧交安科 </Source>
             <PublishTime>2023-09-28T12:00:00+08:00</PublishTime>
-            <LastUpdateTime>2023-09-28T20:00:00+08:00</LastUpdateTime>
+            <LastUpdateTime>2024-03-01T20:00:00+08:00</LastUpdateTime>
         </Event>
         <Event>
             <EventID>TPE20231023-004</EventID>
@@ -269,7 +269,7 @@
             <WebURL>https://traffic.tainan.gov.tw/ActivitiesDetailC004120.aspx?Cond=7ec19b5e-14fb-4fe7-8d1c-6d503ea969a1</WebURL>
             <Source>台南市智慧交安科 </Source>
             <PublishTime>2023-09-28T12:00:00+08:00</PublishTime>
-            <LastUpdateTime>2023-09-28T20:00:00+08:00</LastUpdateTime>
+            <LastUpdateTime>2024-03-01T20:00:00+08:00</LastUpdateTime>
         </Event>
         <Event>
             <EventID>TPE20231023-005</EventID>
@@ -343,7 +343,7 @@
             <WebURL>https://traffic.tainan.gov.tw/ActivitiesDetailC004120.aspx?Cond=7ec19b5e-14fb-4fe7-8d1c-6d503ea969a1</WebURL>
             <Source>台南市智慧交安科 </Source>
             <PublishTime>2023-09-28T12:00:00+08:00</PublishTime>
-            <LastUpdateTime>2023-09-28T20:00:00+08:00</LastUpdateTime>
+            <LastUpdateTime>2024-03-01T20:00:00+08:00</LastUpdateTime>
         </Event>
         <Event>
             <EventID>TPE20231023-006</EventID>
@@ -410,7 +410,7 @@
             <WebURL>https://traffic.tainan.gov.tw/ActivitiesDetailC004120.aspx?Cond=7ec19b5e-14fb-4fe7-8d1c-6d503ea969a1</WebURL>
             <Source>台南市智慧交安科 </Source>
             <PublishTime>2023-09-28T12:00:00+08:00</PublishTime>
-            <LastUpdateTime>2023-09-28T20:00:00+08:00</LastUpdateTime>
+            <LastUpdateTime>2024-03-01T20:00:00+08:00</LastUpdateTime>
         </Event>
         <Event>
             <EventID>TPE20231023-007</EventID>
@@ -477,7 +477,7 @@
             <WebURL>https://traffic.tainan.gov.tw/ActivitiesDetailC004120.aspx?Cond=7ec19b5e-14fb-4fe7-8d1c-6d503ea969a1</WebURL>
             <Source>台南市智慧交安科 </Source>
             <PublishTime>2023-09-28T12:00:00+08:00</PublishTime>
-            <LastUpdateTime>2023-09-28T20:00:00+08:00</LastUpdateTime>
+            <LastUpdateTime>2024-03-01T20:00:00+08:00</LastUpdateTime>
         </Event>
         <Event>
             <EventID>TPE20231023-008</EventID>
@@ -544,7 +544,7 @@
             <WebURL>https://traffic.tainan.gov.tw/ActivitiesDetailC004120.aspx?Cond=7ec19b5e-14fb-4fe7-8d1c-6d503ea969a1</WebURL>
             <Source>台南市智慧交安科 </Source>
             <PublishTime>2023-09-28T12:00:00+08:00</PublishTime>
-            <LastUpdateTime>2023-09-28T20:00:00+08:00</LastUpdateTime>
+            <LastUpdateTime>2024-03-01T20:00:00+08:00</LastUpdateTime>
         </Event>
         <Event>
             <EventID>TPE20231023-009</EventID>
@@ -611,7 +611,7 @@
             <WebURL>https://traffic.tainan.gov.tw/ActivitiesDetailC004120.aspx?Cond=7ec19b5e-14fb-4fe7-8d1c-6d503ea969a1</WebURL>
             <Source>台南市智慧交安科 </Source>
             <PublishTime>2023-09-28T12:00:00+08:00</PublishTime>
-            <LastUpdateTime>2023-09-28T20:00:00+08:00</LastUpdateTime>
+            <LastUpdateTime>2024-03-01T20:00:00+08:00</LastUpdateTime>
         </Event>
         <Event>
             <EventID>TPE20231023-010</EventID>
@@ -678,7 +678,7 @@
             <WebURL>https://traffic.tainan.gov.tw/ActivitiesDetailC004120.aspx?Cond=7ec19b5e-14fb-4fe7-8d1c-6d503ea969a1</WebURL>
             <Source>台南市智慧交安科 </Source>
             <PublishTime>2023-09-28T12:00:00+08:00</PublishTime>
-            <LastUpdateTime>2023-09-28T20:00:00+08:00</LastUpdateTime>
+            <LastUpdateTime>2024-03-01T20:00:00+08:00</LastUpdateTime>
         </Event>
     </Events>
 </EventList>
