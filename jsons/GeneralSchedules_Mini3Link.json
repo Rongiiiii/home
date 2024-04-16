@@ -1,6 +1,8 @@
 {
-    "UpdateInterval": "",
-    "SrcUpdateInterval": "",
+    "UpdateTime": "",
+    "UpdateInterval": 0,
+    "SrcUpdateTime": "",
+    "SrcUpdateInterval": 0,
     "AuthorityCode": "",
     "VersionID": 0,
     "GeneralSchedules": [

@@ -1,0 +1,48 @@
+{
+    "UpdateTime": "",
+    "UpdateInterval": 0,
+    "SrcUpdateTime": "",
+    "SrcUpdateInterval": 0,
+    "AuthorityCode": "",
+    "VersionID": 0,
+    "SpecificSchedules": [
+        {
+            "RouteID": "Test",
+            "RouteName": {
+                "Zh_tw": "資拓宏宇",
+                "En": "iisi"
+            },
+            "OperatorID": "MPB-Test",
+            "Direction": 1,
+            "Timetables": [],
+            "Frequencies": [
+                {
+                    "ServiceDay": {
+                        "Monday": 1,
+                        "Tuesday": 1,
+                        "Wednesday": 1,
+                        "Thursday": 1,
+                        "Friday": 1,
+                        "Saturday": 1,
+                        "Sunday": 1,
+                        "NationalHolidays": 0
+                    },
+                    "SpecialDays": {
+                        "Dates": {},
+                        "DatePeriod": {
+                            "StartDate": "2021/05/18",
+                            "EndDate": "2021/07/12"
+                        },
+                        "ServiceStatus": "1",
+                        "Description": "因疫情調整"
+                    },
+                    "StartTime": "07:00",
+                    "EndTime": "18:00",
+                    "MinHeadwayMins": 0,
+                    "MaxHeadwayMins": 0,
+                    "PeakFlag": "1"
+                }
+            ]
+        }
+    ]
+}
