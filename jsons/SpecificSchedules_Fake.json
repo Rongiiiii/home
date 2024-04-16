@@ -1,19 +1,39 @@
 {
-    "UpdateTime": "",
-    "UpdateInterval": 0,
-    "SrcUpdateTime": "",
-    "SrcUpdateInterval": 0,
-    "AuthorityCode": "",
-    "VersionID": 0,
+    "UpdateInterval": -1,
+    "SrcUpdateInterval": -1,
+    "AuthorityCode": "NWT",
+    "VersionID": 24,
     "SpecificSchedules": [
         {
-            "RouteID": "Test",
+            "RouteID": "ShuFeng102",
             "RouteName": {
-                "Zh_tw": "資拓宏宇",
-                "En": "iisi"
+                "Zh_tw": "八里碼頭－淡水碼頭",
+                "En": "Bali Wharf-Tamsui Wharf"
             },
-            "OperatorID": "MPB-Test",
+            "OperatorID": "NWTNWT-BR33750947",
             "Direction": 1,
+            "Timetables": [],
+            "Frequencies": []
+        },
+        {
+            "RouteID": "ShuFeng102",
+            "RouteName": {
+                "Zh_tw": "八里碼頭－淡水碼頭",
+                "En": "Bali Wharf-Tamsui Wharf"
+            },
+            "OperatorID": "NWTNWT-BR33750947",
+            "Direction": 0,
+            "Timetables": [],
+            "Frequencies": []
+        },
+        {
+            "RouteID": "ShuFeng102",
+            "RouteName": {
+                "Zh_tw": "八里碼頭－淡水碼頭",
+                "En": "Bali Wharf-Tamsui Wharf"
+            },
+            "OperatorID": "NWTNWT-BR33750947",
+            "Direction": 2,
             "Timetables": [],
             "Frequencies": [
                 {
@@ -44,5 +64,7 @@
                 }
             ]
         }
-    ]
+    ],
+    "UpdateTime": "2024-02-26T15:07:06+08:00",
+    "SrcUpdateTime": "2024-02-26T15:07:06+08:00"
 }

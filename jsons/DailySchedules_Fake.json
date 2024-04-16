@@ -1,0 +1,794 @@
+{
+    "UpdateInterval": -1,
+    "SrcUpdateInterval": -1,
+    "AuthorityCode": "NWT",
+    "VersionID": 24,
+    "DailySchedules": [
+        {
+            "RouteID": "ShuFeng102",
+            "RouteName": {
+                "Zh_tw": "八里碼頭－淡水碼頭",
+                "En": "Bali Wharf-Tamsui Wharf"
+            },
+            "OperatorID": "NWTNWT-BR33750947",
+            "Date": "2021/05/19",
+            "Direction": 2,
+            "Timetables": [],
+            "Frequencies": [
+                {
+                    "StartTime": "07:00",
+                    "EndTime": "18:00",
+                    "MinHeadwayMins": 10,
+                    "MaxHeadwayMins": 15,
+                    "PeakFlag": "1"
+                }
+            ]
+        },
+        {
+            "RouteID": "TCR101",
+            "RouteName": {
+                "Zh_tw": "漁人碼頭－淡水客船碼頭",
+                "En": "1"
+            },
+            "OperatorID": "NWTNWT-BR80589261",
+            "Date": "2021/02/07",
+            "Direction": 2,
+            "Timetables": [
+                {
+                    "TripID": "TCR101",
+                    "Stoptimes": [
+                        {
+                            "StopSequence": 1,
+                            "PortID": "TW055",
+                            "PortName": {
+                                "Zh_tw": "漁人碼頭",
+                                "En": "Yu ren"
+                            },
+                            "ArrivalTime": "",
+                            "DepartureTime": "11:00",
+                            "TravelTime": 390
+                        },
+                        {
+                            "StopSequence": 2,
+                            "PortID": "TW054",
+                            "PortName": {
+                                "Zh_tw": "淡水客船碼頭",
+                                "En": "Danshu"
+                            },
+                            "ArrivalTime": "17:30",
+                            "DepartureTime": "",
+                            "TravelTime": 0
+                        }
+                    ]
+                }
+            ],
+            "Frequencies": [
+                {
+                    "StartTime": "11:00",
+                    "EndTime": "17:30",
+                    "MinHeadwayMins": 30,
+                    "MaxHeadwayMins": 60,
+                    "PeakFlag": "1"
+                }
+            ]
+        },
+        {
+            "RouteID": "TCR101",
+            "RouteName": {
+                "Zh_tw": "漁人碼頭－淡水客船碼頭",
+                "En": "1"
+            },
+            "OperatorID": "NWTNWT-BR80589261",
+            "Date": "2021/01/31",
+            "Direction": 2,
+            "Timetables": [
+                {
+                    "TripID": "TCR101",
+                    "Stoptimes": [
+                        {
+                            "StopSequence": 1,
+                            "PortID": "TW055",
+                            "PortName": {
+                                "Zh_tw": "漁人碼頭",
+                                "En": "Yu ren"
+                            },
+                            "ArrivalTime": "",
+                            "DepartureTime": "11:00",
+                            "TravelTime": 390
+                        },
+                        {
+                            "StopSequence": 2,
+                            "PortID": "TW054",
+                            "PortName": {
+                                "Zh_tw": "淡水客船碼頭",
+                                "En": "Danshu"
+                            },
+                            "ArrivalTime": "17:30",
+                            "DepartureTime": "",
+                            "TravelTime": 0
+                        }
+                    ]
+                }
+            ],
+            "Frequencies": [
+                {
+                    "StartTime": "11:00",
+                    "EndTime": "17:30",
+                    "MinHeadwayMins": 15,
+                    "MaxHeadwayMins": 30,
+                    "PeakFlag": "0"
+                }
+            ]
+        },
+        {
+            "RouteID": "TCR101",
+            "RouteName": {
+                "Zh_tw": "漁人碼頭－淡水客船碼頭",
+                "En": "1"
+            },
+            "OperatorID": "NWTNWT-BR80589261",
+            "Date": "2021/02/20",
+            "Direction": 1,
+            "Timetables": [],
+            "Frequencies": []
+        },
+        {
+            "RouteID": "ShuFeng102",
+            "RouteName": {
+                "Zh_tw": "八里碼頭－淡水碼頭",
+                "En": "Bali Wharf-Tamsui Wharf"
+            },
+            "OperatorID": "NWTNWT-BR33750947",
+            "Date": "2021/07/12",
+            "Direction": 0,
+            "Timetables": [],
+            "Frequencies": []
+        },
+        {
+            "RouteID": "TCR101",
+            "RouteName": {
+                "Zh_tw": "漁人碼頭－淡水客船碼頭",
+                "En": "1"
+            },
+            "OperatorID": "NWTNWT-BR80589261",
+            "Date": "2021/02/04",
+            "Direction": 0,
+            "Timetables": [],
+            "Frequencies": []
+        },
+        {
+            "RouteID": "TCR101",
+            "RouteName": {
+                "Zh_tw": "漁人碼頭－淡水客船碼頭",
+                "En": "1"
+            },
+            "OperatorID": "NWTNWT-BR80589261",
+            "Date": "2021/02/06",
+            "Direction": 1,
+            "Timetables": [],
+            "Frequencies": []
+        },
+        {
+            "RouteID": "HalohaR101",
+            "RouteName": {
+                "Zh_tw": "大稻埕碼頭-淡水客船碼頭",
+                "En": " Dadaocheng Wharf-Tamsui Wharf"
+            },
+            "OperatorID": "NWTNWT-BR13055528",
+            "Date": "2023/07/15",
+            "Direction": 0,
+            "Timetables": [
+                {
+                    "TripID": "HalohaR10101",
+                    "Stoptimes": [
+                        {
+                            "StopSequence": 1,
+                            "PortID": "TW019",
+                            "PortName": {
+                                "Zh_tw": "大稻埕碼頭",
+                                "En": "Dadaocheng Wharf"
+                            },
+                            "ArrivalTime": "",
+                            "DepartureTime": "10:00",
+                            "TravelTime": 80
+                        },
+                        {
+                            "StopSequence": 2,
+                            "PortID": "TW054",
+                            "PortName": {
+                                "Zh_tw": "淡水客船碼頭",
+                                "En": "Danshu"
+                            },
+                            "ArrivalTime": "11:20",
+                            "DepartureTime": "11:30",
+                            "TravelTime": 0
+                        }
+                    ]
+                }
+            ],
+            "Frequencies": []
+        },
+        {
+            "RouteID": "TCR101",
+            "RouteName": {
+                "Zh_tw": "漁人碼頭－淡水客船碼頭",
+                "En": "1"
+            },
+            "OperatorID": "NWTNWT-BR80589261",
+            "Date": "2021/02/19",
+            "Direction": 2,
+            "Timetables": [
+                {
+                    "TripID": "TCR101",
+                    "Stoptimes": [
+                        {
+                            "StopSequence": 1,
+                            "PortID": "TW055",
+                            "PortName": {
+                                "Zh_tw": "漁人碼頭",
+                                "En": "Yu ren"
+                            },
+                            "ArrivalTime": "",
+                            "DepartureTime": "11:00",
+                            "TravelTime": 390
+                        },
+                        {
+                            "StopSequence": 2,
+                            "PortID": "TW054",
+                            "PortName": {
+                                "Zh_tw": "淡水客船碼頭",
+                                "En": "Danshu"
+                            },
+                            "ArrivalTime": "17:30",
+                            "DepartureTime": "",
+                            "TravelTime": 0
+                        }
+                    ]
+                }
+            ],
+            "Frequencies": [
+                {
+                    "StartTime": "",
+                    "EndTime": "",
+                    "MinHeadwayMins": 60,
+                    "MaxHeadwayMins": 60,
+                    "PeakFlag": "1"
+                }
+            ]
+        },
+        {
+            "RouteID": "TCR101",
+            "RouteName": {
+                "Zh_tw": "漁人碼頭－淡水客船碼頭",
+                "En": "1"
+            },
+            "OperatorID": "NWTNWT-BR80589261",
+            "Date": "2021/02/18",
+            "Direction": 1,
+            "Timetables": [],
+            "Frequencies": []
+        },
+        {
+            "RouteID": "ShuFeng102",
+            "RouteName": {
+                "Zh_tw": "八里碼頭－淡水碼頭",
+                "En": "Bali Wharf-Tamsui Wharf"
+            },
+            "OperatorID": "NWTNWT-BR80552314",
+            "Date": "2023/07/15",
+            "Direction": 1,
+            "Timetables": [],
+            "Frequencies": [
+                {
+                    "StartTime": "10:00",
+                    "EndTime": "19:00",
+                    "MinHeadwayMins": 10,
+                    "MaxHeadwayMins": 15,
+                    "PeakFlag": "1"
+                },
+                {
+                    "StartTime": "07:00",
+                    "EndTime": "19:00",
+                    "MinHeadwayMins": 20,
+                    "MaxHeadwayMins": 60,
+                    "PeakFlag": "0"
+                }
+            ]
+        },
+        {
+            "RouteID": "TCR101",
+            "RouteName": {
+                "Zh_tw": "漁人碼頭－淡水客船碼頭",
+                "En": "1"
+            },
+            "OperatorID": "NWTNWT-BR80589261",
+            "Date": "2021/02/18",
+            "Direction": 2,
+            "Timetables": [
+                {
+                    "TripID": "TCR101",
+                    "Stoptimes": [
+                        {
+                            "StopSequence": 1,
+                            "PortID": "TW055",
+                            "PortName": {
+                                "Zh_tw": "漁人碼頭",
+                                "En": "Yu ren"
+                            },
+                            "ArrivalTime": "",
+                            "DepartureTime": "11:00",
+                            "TravelTime": 390
+                        },
+                        {
+                            "StopSequence": 2,
+                            "PortID": "TW054",
+                            "PortName": {
+                                "Zh_tw": "淡水客船碼頭",
+                                "En": "Danshu"
+                            },
+                            "ArrivalTime": "17:30",
+                            "DepartureTime": "",
+                            "TravelTime": 0
+                        }
+                    ]
+                }
+            ],
+            "Frequencies": [
+                {
+                    "StartTime": "",
+                    "EndTime": "",
+                    "MinHeadwayMins": 60,
+                    "MaxHeadwayMins": 60,
+                    "PeakFlag": "1"
+                }
+            ]
+        },
+        {
+            "RouteID": "TCR101",
+            "RouteName": {
+                "Zh_tw": "漁人碼頭－淡水客船碼頭",
+                "En": "1"
+            },
+            "OperatorID": "NWTNWT-BR80589261",
+            "Date": "2021/01/29",
+            "Direction": 2,
+            "Timetables": [
+                {
+                    "TripID": "TCR101",
+                    "Stoptimes": [
+                        {
+                            "StopSequence": 1,
+                            "PortID": "TW055",
+                            "PortName": {
+                                "Zh_tw": "漁人碼頭",
+                                "En": "Yu ren"
+                            },
+                            "ArrivalTime": "",
+                            "DepartureTime": "11:00",
+                            "TravelTime": 390
+                        },
+                        {
+                            "StopSequence": 2,
+                            "PortID": "TW054",
+                            "PortName": {
+                                "Zh_tw": "淡水客船碼頭",
+                                "En": "Danshu"
+                            },
+                            "ArrivalTime": "17:30",
+                            "DepartureTime": "",
+                            "TravelTime": 0
+                        }
+                    ]
+                }
+            ],
+            "Frequencies": [
+                {
+                    "StartTime": "11:00",
+                    "EndTime": "17:30",
+                    "MinHeadwayMins": 60,
+                    "MaxHeadwayMins": 60,
+                    "PeakFlag": "1"
+                }
+            ]
+        },
+        {
+            "RouteID": "TCR101",
+            "RouteName": {
+                "Zh_tw": "漁人碼頭－淡水客船碼頭",
+                "En": "1"
+            },
+            "OperatorID": "NWTNWT-BR80589261",
+            "Date": "2021/02/03",
+            "Direction": 1,
+            "Timetables": [],
+            "Frequencies": []
+        },
+        {
+            "RouteID": "TCR101",
+            "RouteName": {
+                "Zh_tw": "漁人碼頭－淡水客船碼頭",
+                "En": "1"
+            },
+            "OperatorID": "NWTNWT-BR80589261",
+            "Date": "2021/01/30",
+            "Direction": 2,
+            "Timetables": [
+                {
+                    "TripID": "TCR101",
+                    "Stoptimes": [
+                        {
+                            "StopSequence": 1,
+                            "PortID": "TW055",
+                            "PortName": {
+                                "Zh_tw": "漁人碼頭",
+                                "En": "Yu ren"
+                            },
+                            "ArrivalTime": "",
+                            "DepartureTime": "11:00",
+                            "TravelTime": 390
+                        },
+                        {
+                            "StopSequence": 2,
+                            "PortID": "TW054",
+                            "PortName": {
+                                "Zh_tw": "淡水客船碼頭",
+                                "En": "Danshu"
+                            },
+                            "ArrivalTime": "17:30",
+                            "DepartureTime": "",
+                            "TravelTime": 0
+                        }
+                    ]
+                }
+            ],
+            "Frequencies": [
+                {
+                    "StartTime": "11:00",
+                    "EndTime": "17:30",
+                    "MinHeadwayMins": 15,
+                    "MaxHeadwayMins": 30,
+                    "PeakFlag": "0"
+                }
+            ]
+        },
+        {
+            "RouteID": "TCR101",
+            "RouteName": {
+                "Zh_tw": "漁人碼頭－淡水客船碼頭",
+                "En": "1"
+            },
+            "OperatorID": "NWTNWT-BR80589261",
+            "Date": "2021/02/07",
+            "Direction": 1,
+            "Timetables": [],
+            "Frequencies": []
+        },
+        {
+            "RouteID": "ShuFeng102",
+            "RouteName": {
+                "Zh_tw": "八里碼頭－淡水碼頭",
+                "En": "Bali Wharf-Tamsui Wharf"
+            },
+            "OperatorID": "NWTNWT-BR33750947",
+            "Date": "2021/05/19",
+            "Direction": 1,
+            "Timetables": [],
+            "Frequencies": []
+        },
+        {
+            "RouteID": "TCR101",
+            "RouteName": {
+                "Zh_tw": "漁人碼頭－淡水客船碼頭",
+                "En": "1"
+            },
+            "OperatorID": "NWTNWT-BR80589261",
+            "Date": "2021/02/06",
+            "Direction": 0,
+            "Timetables": [],
+            "Frequencies": []
+        },
+        {
+            "RouteID": "ShuFeng102",
+            "RouteName": {
+                "Zh_tw": "八里碼頭－淡水碼頭",
+                "En": "Bali Wharf-Tamsui Wharf"
+            },
+            "OperatorID": "NWTNWT-BR33750947",
+            "Date": "2021/05/20",
+            "Direction": 1,
+            "Timetables": [],
+            "Frequencies": []
+        },
+        {
+            "RouteID": "TCR101",
+            "RouteName": {
+                "Zh_tw": "漁人碼頭－淡水客船碼頭",
+                "En": "1"
+            },
+            "OperatorID": "NWTNWT-BR80589261",
+            "Date": "2021/02/21",
+            "Direction": 0,
+            "Timetables": [],
+            "Frequencies": []
+        },
+        {
+            "RouteID": "ZH101",
+            "RouteName": {
+                "Zh_tw": "忠孝碼頭－淡水客運碼頭",
+                "En": "Zhongxiao Wharf－Tamsui Wharf"
+            },
+            "OperatorID": "NWTNWT-BR80552314",
+            "Date": "2023/07/15",
+            "Direction": 0,
+            "Timetables": [
+                {
+                    "TripID": " ZH10101",
+                    "Stoptimes": [
+                        {
+                            "StopSequence": 1,
+                            "PortID": "TW053",
+                            "PortName": {
+                                "Zh_tw": "忠孝碼頭",
+                                "En": "Zhongxiao"
+                            },
+                            "ArrivalTime": "",
+                            "DepartureTime": "15:00",
+                            "TravelTime": 10
+                        },
+                        {
+                            "StopSequence": 2,
+                            "PortID": "TW019",
+                            "PortName": {
+                                "Zh_tw": "大稻埕碼頭",
+                                "En": "Dadaocheng Wharf"
+                            },
+                            "ArrivalTime": "15:10",
+                            "DepartureTime": "15:15",
+                            "TravelTime": 55
+                        },
+                        {
+                            "StopSequence": 3,
+                            "PortID": "TW020",
+                            "PortName": {
+                                "Zh_tw": "關渡碼頭",
+                                "En": "Guandu Wharf"
+                            },
+                            "ArrivalTime": "16:10",
+                            "DepartureTime": "16:15",
+                            "TravelTime": 50
+                        },
+                        {
+                            "StopSequence": 4,
+                            "PortID": "TW054",
+                            "PortName": {
+                                "Zh_tw": "淡水客船碼頭",
+                                "En": "Danshu"
+                            },
+                            "ArrivalTime": "17:05",
+                            "DepartureTime": "",
+                            "TravelTime": 0
+                        }
+                    ]
+                }
+            ],
+            "Frequencies": []
+        },
+        {
+            "RouteID": "TCR101",
+            "RouteName": {
+                "Zh_tw": "漁人碼頭－淡水客船碼頭",
+                "En": "1"
+            },
+            "OperatorID": "NWTNWT-BR80589261",
+            "Date": "2021/02/03",
+            "Direction": 0,
+            "Timetables": [],
+            "Frequencies": []
+        },
+        {
+            "RouteID": "TCR101",
+            "RouteName": {
+                "Zh_tw": "漁人碼頭－淡水客船碼頭",
+                "En": "1"
+            },
+            "OperatorID": "NWTNWT-BR80589261",
+            "Date": "2021/01/28",
+            "Direction": 0,
+            "Timetables": [],
+            "Frequencies": []
+        },
+        {
+            "RouteID": "ShuFeng101",
+            "RouteName": {
+                "Zh_tw": "淡水客船碼頭－漁人碼頭",
+                "En": "Tamsui Wharf－Fisherman's Wharf"
+            },
+            "OperatorID": "NWTNWT-BR80552314",
+            "Date": "2023/07/15",
+            "Direction": 1,
+            "Timetables": [],
+            "Frequencies": [
+                {
+                    "StartTime": "15:00",
+                    "EndTime": "19:00",
+                    "MinHeadwayMins": 15,
+                    "MaxHeadwayMins": 20,
+                    "PeakFlag": "1"
+                },
+                {
+                    "StartTime": "10:30",
+                    "EndTime": "15:00",
+                    "MinHeadwayMins": 30,
+                    "MaxHeadwayMins": 60,
+                    "PeakFlag": "0"
+                }
+            ]
+        },
+        {
+            "RouteID": "ShuFeng102",
+            "RouteName": {
+                "Zh_tw": "八里碼頭－淡水碼頭",
+                "En": "Bali Wharf-Tamsui Wharf"
+            },
+            "OperatorID": "NWTNWT-BR33750947",
+            "Date": "2021/05/20",
+            "Direction": 0,
+            "Timetables": [],
+            "Frequencies": []
+        },
+        {
+            "RouteID": "TCR101",
+            "RouteName": {
+                "Zh_tw": "漁人碼頭－淡水客船碼頭",
+                "En": "1"
+            },
+            "OperatorID": "NWTNWT-BR80589261",
+            "Date": "2021/01/29",
+            "Direction": 1,
+            "Timetables": [],
+            "Frequencies": []
+        },
+        {
+            "RouteID": "TCR101",
+            "RouteName": {
+                "Zh_tw": "漁人碼頭－淡水客船碼頭",
+                "En": "1"
+            },
+            "OperatorID": "NWTNWT-BR80589261",
+            "Date": "2021/02/03",
+            "Direction": 2,
+            "Timetables": [
+                {
+                    "TripID": "TCR101",
+                    "Stoptimes": [
+                        {
+                            "StopSequence": 1,
+                            "PortID": "TW055",
+                            "PortName": {
+                                "Zh_tw": "漁人碼頭",
+                                "En": "Yu ren"
+                            },
+                            "ArrivalTime": "",
+                            "DepartureTime": "11:00",
+                            "TravelTime": 390
+                        },
+                        {
+                            "StopSequence": 2,
+                            "PortID": "TW054",
+                            "PortName": {
+                                "Zh_tw": "淡水客船碼頭",
+                                "En": "Danshu"
+                            },
+                            "ArrivalTime": "17:30",
+                            "DepartureTime": "",
+                            "TravelTime": 0
+                        }
+                    ]
+                }
+            ],
+            "Frequencies": [
+                {
+                    "StartTime": "11:00",
+                    "EndTime": "17:30",
+                    "MinHeadwayMins": 60,
+                    "MaxHeadwayMins": 60,
+                    "PeakFlag": "0"
+                }
+            ]
+        },
+        {
+            "RouteID": "TCR101",
+            "RouteName": {
+                "Zh_tw": "漁人碼頭－淡水客船碼頭",
+                "En": "1"
+            },
+            "OperatorID": "NWTNWT-BR80589261",
+            "Date": "2021/02/05",
+            "Direction": 2,
+            "Timetables": [
+                {
+                    "TripID": "TCR101",
+                    "Stoptimes": [
+                        {
+                            "StopSequence": 1,
+                            "PortID": "TW055",
+                            "PortName": {
+                                "Zh_tw": "漁人碼頭",
+                                "En": "Yu ren"
+                            },
+                            "ArrivalTime": "",
+                            "DepartureTime": "11:00",
+                            "TravelTime": 390
+                        },
+                        {
+                            "StopSequence": 2,
+                            "PortID": "TW054",
+                            "PortName": {
+                                "Zh_tw": "淡水客船碼頭",
+                                "En": "Danshu"
+                            },
+                            "ArrivalTime": "17:30",
+                            "DepartureTime": "",
+                            "TravelTime": 0
+                        }
+                    ]
+                }
+            ],
+            "Frequencies": []
+        },
+        {
+            "RouteID": "TCR101",
+            "RouteName": {
+                "Zh_tw": "漁人碼頭－淡水客船碼頭",
+                "En": "1"
+            },
+            "OperatorID": "NWTNWT-BR80589261",
+            "Date": "2021/02/05",
+            "Direction": 0,
+            "Timetables": [],
+            "Frequencies": []
+        },
+        {
+            "RouteID": "HalohaR101",
+            "RouteName": {
+                "Zh_tw": "大稻埕碼頭-淡水客船碼頭",
+                "En": " Dadaocheng Wharf-Tamsui Wharf"
+            },
+            "OperatorID": "NWTNWT-BR13055528",
+            "Date": "2023/07/15",
+            "Direction": 1,
+            "Timetables": [
+                {
+                    "TripID": " HalohaR10102",
+                    "Stoptimes": [
+                        {
+                            "StopSequence": 1,
+                            "PortID": "TW054",
+                            "PortName": {
+                                "Zh_tw": "淡水客船碼頭",
+                                "En": "Danshu"
+                            },
+                            "ArrivalTime": "",
+                            "DepartureTime": "11:30",
+                            "TravelTime": 110
+                        },
+                        {
+                            "StopSequence": 2,
+                            "PortID": "TW019",
+                            "PortName": {
+                                "Zh_tw": "大稻埕碼頭",
+                                "En": "Dadaocheng Wharf"
+                            },
+                            "ArrivalTime": "13:20",
+                            "DepartureTime": "",
+                            "TravelTime": 0
+                        }
+                    ]
+                }
+            ],
+            "Frequencies": []
+        }
+    ],
+    "UpdateTime": "2024-02-26T15:07:06+08:00",
+    "SrcUpdateTime": "2024-02-26T15:07:06+08:00"
+}
