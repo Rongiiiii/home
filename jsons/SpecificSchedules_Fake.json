@@ -1,38 +1,38 @@
 {
+    "UpdateTime": "2024-02-26T15:07:06+08:00",
     "UpdateInterval": -1,
-    "SrcUpdateInterval": -1,
-    "AuthorityCode": "NWT",
-    "VersionID": 24,
+    "AuthorityCode": "MPB",
+    "VersionID": 0,
     "SpecificSchedules": [
         {
-            "RouteID": "ShuFeng102",
+            "RouteID": "CKJB",
             "RouteName": {
-                "Zh_tw": "八里碼頭－淡水碼頭",
-                "En": "Bali Wharf-Tamsui Wharf"
+                "Zh_tw": "赤崁漁港-吉貝漁港",
+                "En": "Chikan Village-Jibei Village"
             },
-            "OperatorID": "NWTNWT-BR33750947",
+            "OperatorID": "MPB24264017",
             "Direction": 1,
             "Timetables": [],
             "Frequencies": []
         },
         {
-            "RouteID": "ShuFeng102",
+            "RouteID": "DGLQ",
             "RouteName": {
-                "Zh_tw": "八里碼頭－淡水碼頭",
-                "En": "Bali Wharf-Tamsui Wharf"
+                "Zh_tw": "東港—小琉球",
+                "En": "Donggang,Pingtung－Liuqiu,Pingtung"
             },
-            "OperatorID": "NWTNWT-BR33750947",
+            "OperatorID": "MPB80335056",
             "Direction": 0,
             "Timetables": [],
             "Frequencies": []
         },
         {
-            "RouteID": "ShuFeng102",
+            "RouteID": "DGLQ-1",
             "RouteName": {
-                "Zh_tw": "八里碼頭－淡水碼頭",
-                "En": "Bali Wharf-Tamsui Wharf"
+                "Zh_tw": "東港—小琉球(大福)",
+                "En": "Donggang,Pingtung－Liuqiu(Dafu),Pingtung"
             },
-            "OperatorID": "NWTNWT-BR33750947",
+            "OperatorID": "MPB80344533",
             "Direction": 2,
             "Timetables": [],
             "Frequencies": [
@@ -50,8 +50,8 @@
                     "SpecialDays": {
                         "Dates": {},
                         "DatePeriod": {
-                            "StartDate": "2021/05/18",
-                            "EndDate": "2021/07/12"
+                            "StartDate": "2024/01/01",
+                            "EndDate": "2024/04/18"
                         },
                         "ServiceStatus": "1",
                         "Description": "因疫情調整"
@@ -64,7 +64,5 @@
                 }
             ]
         }
-    ],
-    "UpdateTime": "2024-02-26T15:07:06+08:00",
-    "SrcUpdateTime": "2024-02-26T15:07:06+08:00"
+    ]
 }
