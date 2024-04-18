@@ -38,7 +38,7 @@
                     "TripID": "TCR101",
                     "Stoptimes": [
                         {
-                            "StopSequence": 1,
+                            "StopSequence": "1",
                             "PortID": "TW055",
                             "PortName": {
                                 "Zh_tw": "漁人碼頭",
@@ -46,10 +46,10 @@
                             },
                             "ArrivalTime": "",
                             "DepartureTime": "11:00",
-                            "TravelTime": 390
+                            "TravelTime": "390"
                         },
                         {
-                            "StopSequence": 2,
+                            "StopSequence": "2",
                             "PortID": "TW054",
                             "PortName": {
                                 "Zh_tw": "淡水客船碼頭",
@@ -57,7 +57,7 @@
                             },
                             "ArrivalTime": "17:30",
                             "DepartureTime": "",
-                            "TravelTime": 0
+                            "TravelTime": "0"
                         }
                     ]
                 }
@@ -86,7 +86,7 @@
                     "TripID": "TCR101",
                     "Stoptimes": [
                         {
-                            "StopSequence": 1,
+                            "StopSequence": "1",
                             "PortID": "TW055",
                             "PortName": {
                                 "Zh_tw": "漁人碼頭",
@@ -94,7 +94,7 @@
                             },
                             "ArrivalTime": "",
                             "DepartureTime": "11:00",
-                            "TravelTime": 390
+                            "TravelTime": "390"
                         },
                         {
                             "StopSequence": 2,
@@ -105,7 +105,7 @@
                             },
                             "ArrivalTime": "17:30",
                             "DepartureTime": "",
-                            "TravelTime": 0
+                            "TravelTime": "0"
                         }
                     ]
                 }
