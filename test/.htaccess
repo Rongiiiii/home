@@ -1,7 +1,7 @@
 <IfModule mod_rewrite.c>
   RewriteEngine On
   RewriteBase /home/test/
-  RewriteRule ^home/index\.html$ - [L]
+  RewriteRule ^home/test/index\.html$ - [L]
   RewriteCond %{REQUEST_FILENAME} !-f
   RewriteCond %{REQUEST_FILENAME} !-d
   RewriteRule . /home/test/index.html [L]
