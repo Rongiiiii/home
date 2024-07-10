@@ -17,7 +17,7 @@
             <Location>
                 <FreeExpressHighway>
                     <Road>Road1</Road>
-                    <Direction>Direction1</Direction>
+                    <Direction>雙向</Direction>
                     <StartKM>36K+525</StartKM>
                     <EndKM>36K+825</EndKM>
                     <SectionStart>XX交流道</SectionStart>
