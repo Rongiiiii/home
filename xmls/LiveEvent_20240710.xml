@@ -1,0 +1,107 @@
+<LiveEventList>
+    <UpdateTime>2024-07-10T09:55:28+08:00</UpdateTime>
+    <UpdateInterval>-1</UpdateInterval>
+    <AuthorityCode>TAO</AuthorityCode>
+    <LiveEvents>
+        <LiveEvent>
+            <EventID>380110100G_001-20240710002</EventID>
+            <EventTitle>測試標題</EventTitle>
+            <Description>施工描述:~~~~</Description>
+            <EventType>3</EventType>
+            <EventSubType>301</EventSubType>
+            <EventStep>2</EventStep>
+            <EffectiveTime>2024-07-10T00:00:00+08:00</EffectiveTime>
+            <ExpireTime>2024-07-11T23:59:59+08:00</ExpireTime>
+            <Geometry>POLYGON((121.22533778196356 24.92685849046685,121.22535088861048 24.926863248498766,121.22538481361234 24.926791534082763,121.22536385629135 24.926791565764617,121.22533778196356 24.92685849046685))</Geometry>
+            <LocationType>255</LocationType>
+            <Location>
+                <FreeExpressHighway>
+                    <Road>Road1</Road>
+                    <Direction>Direction1</Direction>
+                    <StartKM>36K+525</StartKM>
+                    <EndKM>36K+825</EndKM>
+                    <SectionStart>XX交流道</SectionStart>
+                    <SectionEnd>XX交流道</SectionEnd>
+                    <Interchange>XX交流道</Interchange>
+                    <Ramp>
+                        <Direction>東向</Direction>
+                        <EntryExit>出口</EntryExit>
+                    </Ramp>
+                </FreeExpressHighway>
+
+                <CityRoad>
+                    <Roadways>
+                        <Roadway>
+                            <City>臺北市</City>
+                            <Town>松山區</Town>
+                            <Road>八德路</Road>
+                            <Direction>東北向</Direction>
+                            <SectionStart>XX路</SectionStart>
+                            <SectionEnd>XX路</SectionEnd>
+                        </Roadway>
+                        <Roadway>
+                            <City>臺北市2</City>
+                            <Town>松山區2</Town>
+                            <Road>八德路2</Road>
+                            <Direction>西南向</Direction>
+                            <SectionStart>XX路2</SectionStart>
+                            <SectionEnd>XX路2</SectionEnd>
+                        </Roadway>
+                    </Roadway>
+                </CityRoad>
+
+                <Intersection>
+                    <City>臺北市</City>
+                    <Roads>
+                        <Road>XX路一段</Road>
+                        <Road>XX路二段</Road>
+                    </Roads>
+                </Intersection>
+
+                <Address>
+                    <City>臺北市</City>
+                    <Town>松山區</Town>
+                    <Road>八德路</Road>
+                    <Lane>巷名</Lane>
+                    <Alley>弄名</Alley>
+                    <StartNo>號(起)</StartNo>
+                    <EndNo>號(迄)</EndNo>
+                </Address>
+
+                <Place>
+                    <POI>地標</POI>
+                </Place>
+
+                <Other>其他</Other>
+
+            </Location>
+
+            <Impact>
+                <Description>影響描述</Description>
+                <Severity>0</Severity>
+                <Regulations>
+                    <Regulation>2</Regulation>
+                    <Regulation>3</Regulation>
+                </Regulations>
+                <BlockWay>0</BlockWay>
+                <BlockedLanes>-1</BlockedLanes>
+                <Duration>
+                    <DurationStartTime>2024-07-10T17:30:08+08:00</DurationStartTime>
+                    <DurationEndTime>2024-07-10T17:30:08+08:00</DurationEndTime>
+                </Duration>
+                <Detour>
+                    <Description>描述</Description>
+                    <AttachmentURL>https://.....</AttachmentURL>
+                    <Geometry>POLYGON((121.22533778196356 24.92685849046685,121.22535088861048 24.926863248498766,121.22538481361234 24.926791534082763,121.22536385629135 24.926791565764617,121.22533778196356 24.92685849046685))</Geometry>
+                </Detour>
+            </Impact>
+            <AttachmentURLs>
+                <AttachmentURL>https://.....</AttachmentURL>
+                <AttachmentURL>https://.....</AttachmentURL>
+            </AttachmentURLs>
+            <Source>桃園市道路挖掘管理暨資訊聯合服務中心</Source>
+            <PublishTime>2024-07-10T09:55:28+08:00</PublishTime>
+            <LastUpdateTime>2024-07-10T09:55:28+08:00</LastUpdateTime>
+        </LiveEvent>
+    </LiveEvents>
+</LiveEventList>
