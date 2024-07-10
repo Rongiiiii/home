@@ -93,8 +93,8 @@
                         <OccurDay>5</OccurDay>
                     </OccurDays>
                     <OccurDates>
-                        <OccurDates>2024-07-10</OccurDate>
-                        <OccurDates>2024-07-11</OccurDate>
+                        <OccurDate>2024-07-10</OccurDate>
+                        <OccurDate>2024-07-11</OccurDate>
                     </OccurDates>
                     <StartTime>09:00:00</StartTime>
                     <EndTime>18:00:00</EndTime>
