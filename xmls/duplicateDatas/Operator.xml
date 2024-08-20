@@ -1,0 +1,21 @@
+<EVOperatorList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://traffic.transportdata.tw/standard/EVStation/schema/" xmlns="https://traffic.transportdata.tw/standard/EVStation/schema/">
+  <UpdateTime>2024-08-20T15:53:53+08:00</UpdateTime>
+  <UpdateInterval>86400</UpdateInterval>
+  <AuthorityCode>YUN</AuthorityCode>
+  <OperatorID>90807408</OperatorID>
+  <Operators>
+    <Operator>
+      <OperatorID>90807408</OperatorID>
+      <OperatorName>
+        <Zh_tw>華城電能科技股份有限公司</Zh_tw>
+        <En>Fortune Electric Value Company Limited</En>
+      </OperatorName>
+      <Telephone>0800-885-150</Telephone>
+      <Address>臺北市大安區復興南路 1 段 368 號 10 樓</Address>
+      <WebURL>https://www.evalue.com.tw/index/</WebURL>
+      <LogoURL>https://www.evalue.com.tw/data/10000/images/logo.png</LogoURL>
+      <TsAndCsURL>https://www.evalue.com.tw/about_privacy</TsAndCsURL>
+      <BAN>90807408</BAN>
+    </Operator>
+  </Operators>
+</EVOperatorList>

@@ -1,0 +1,19 @@
+<EVServiceTimeList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://traffic.transportdata.tw/standard/EVStation/schema/" xmlns="https://traffic.transportdata.tw/standard/EVStation/schema/">
+  <UpdateTime>2024-08-20T15:54:31+08:00</UpdateTime>
+  <UpdateInterval>86400</UpdateInterval>
+  <AuthorityCode>YUN</AuthorityCode>
+  <OperatorID>90807408</OperatorID>
+  <ServiceTimes>
+    <ServiceTime>
+      <StationID>90807408-SCSD02537</StationID>
+      <OpeningHours>
+        <OpeningHour>
+          <ServiceType>1</ServiceType>
+          <DayType>1</DayType>
+          <StartTime>00:00</StartTime>
+          <EndTime>23:59</EndTime>
+        </OpeningHour>
+      </OpeningHours>
+    </ServiceTime>
+  </ServiceTimes>
+</EVServiceTimeList>
