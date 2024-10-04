@@ -256,13 +256,13 @@
               <City>臺北市</City>
               <Town>中山區</Town>
               <Road>建國北路一段</Road>
-              <Direction>北</Direction>
+              <Direction>北方</Direction>
             </Roadway>
             <Roadway>
               <City>臺北市</City>
               <Town>中山區</Town>
               <Road>建國北路一段88巷</Road>
-              <Direction>西</Direction>
+              <Direction>西方</Direction>
             </Roadway>
           </Roadways>
         </CityRoad>
