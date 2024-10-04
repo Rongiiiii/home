@@ -228,9 +228,6 @@
         </Regulations>
         <BlockWay>0</BlockWay>
         <BlockedLanes>-1</BlockedLanes>
-        <Duration>
-          <OccurType xsi:nil="true" />
-        </Duration>
       </Impact>
       <AttachmentURLs />
       <Source>dzfm</Source>
@@ -436,9 +433,6 @@
         </Regulations>
         <BlockWay>0</BlockWay>
         <BlockedLanes>-1</BlockedLanes>
-        <Duration>
-          <OccurType xsi:nil="true" />
-        </Duration>
       </Impact>
       <AttachmentURLs />
       <Source>FSM</Source>
