@@ -15,5 +15,16 @@
         </OpeningHour>
       </OpeningHours>
     </ServiceTime>
+    <ServiceTime>
+      <StationID>90807408-SCSD02537</StationID>
+      <OpeningHours>
+        <OpeningHour>
+          <ServiceType>1</ServiceType>
+          <DayType>1</DayType>
+          <StartTime>00:00</StartTime>
+          <EndTime>23:59</EndTime>
+        </OpeningHour>
+      </OpeningHours>
+    </ServiceTime>
   </ServiceTimes>
 </EVServiceTimeList>

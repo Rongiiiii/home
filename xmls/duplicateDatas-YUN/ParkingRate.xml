@@ -16,5 +16,17 @@
         </Rate>
       </Rates>
     </ParkingRate>
+    <ParkingRate>
+      <StationID>90807408-SCSD02537</StationID>
+      <Rates>
+        <Rate>
+          <RateType>1</RateType>
+          <PricingType>1</PricingType>
+          <DayType>1</DayType>
+          <RatePrice>0</RatePrice>
+          <MaxPrice>-1</MaxPrice>
+        </Rate>
+      </Rates>
+    </ParkingRate>
   </ParkingRates>
 </EVParkingRateList>

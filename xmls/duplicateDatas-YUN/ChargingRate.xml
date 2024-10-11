@@ -50,5 +50,28 @@
         </Rate>
       </Rates>
     </ChargingRate>
+    <ChargingRate>
+      <StationID>90807408-SCSD02537</StationID>
+      <ChargingPointID>90807408-PCP02792</ChargingPointID>
+      <ConnectorID>90807408-CCP02792</ConnectorID>
+      <Rates>
+        <Rate>
+          <RateType>2</RateType>
+          <PricingType>2</PricingType>
+          <RatePrice>9</RatePrice>
+          <StartTime>00:00</StartTime>
+          <EndTime>11:00</EndTime>
+          <Peak>2</Peak>
+        </Rate>
+        <Rate>
+          <RateType>2</RateType>
+          <PricingType>2</PricingType>
+          <RatePrice>11</RatePrice>
+          <StartTime>11:01</StartTime>
+          <EndTime>23:59</EndTime>
+          <Peak>0</Peak>
+        </Rate>
+      </Rates>
+    </ChargingRate>
   </ChargingRates>
 </EVChargingRateList>
