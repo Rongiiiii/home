@@ -1,0 +1,47 @@
+<EVStationList xmlns="https://traffic.transportdata.tw/standard/EVStation/schema/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://traffic.transportdata.tw/standard/EVStation/schema/">
+    <UpdateTime>2024-10-11T14:05:26+08:00</UpdateTime>
+    <UpdateInterval>86400</UpdateInterval>
+    <AuthorityCode>CYQ</AuthorityCode>
+    <OperatorID>85051710</OperatorID>
+    <Stations>
+        <Station>
+            <StationID>AAAAA</StationID>
+            <StationName>
+                <Zh_tw>嘉義客家文化會館</Zh_tw>
+            </StationName>
+            <Description>本站採【晴空電價＋星空電價3.0】優惠中。07:00～15:59 適用晴空電價優惠時段『每度6.5元』。16:00～21:59 適用各站點原費率計算。22:00～隔日06:59 適用星空電價優惠時段『每度6.2元』。週一至週五如遇國定假日，以原費率計算</Description>
+            <OperatorID>85051710</OperatorID>
+            <OperationType>3</OperationType>
+            <PositionLat>23.4465475</PositionLat>
+            <PositionLon>120.4943672</PositionLon>
+            <Spaces>2</Spaces>
+            <ChargingPoints>1</ChargingPoints>
+            <Connectors>
+                <Connector>
+                    <Type>1</Type>
+                    <Power>2</Power>
+                    <Quantity>1</Quantity>
+                </Connector>
+                <Connector>
+                    <Type>2</Type>
+                    <Power>2</Power>
+                    <Quantity>1</Quantity>
+                </Connector>
+            </Connectors>
+            <ServiceTime>7x24小時</ServiceTime>
+            <ParkingRate>每小時20元</ParkingRate>
+            <ChargingRate>免費</ChargingRate>
+            <Floors>1F</Floors>
+            <Location>
+                <Address>
+                    <City>嘉義縣</City>
+                    <Town>中埔鄉</Town>
+                    <Road>金蘭村頂山門</Road>
+                    <No>29</No>
+                </Address>
+            </Location>
+            <Telephone>05-2397565</Telephone>
+        </Station>
+    </Stations>
+</EVStationList>

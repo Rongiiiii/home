@@ -1,0 +1,20 @@
+<EVOperatorList xmlns="https://traffic.transportdata.tw/standard/EVStation/schema/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://traffic.transportdata.tw/standard/EVStation/schema/">
+    <UpdateTime>2024-10-11T14:05:19+08:00</UpdateTime>
+    <UpdateInterval>86400</UpdateInterval>
+    <AuthorityCode>CYQ</AuthorityCode>
+    <OperatorID>85051710</OperatorID>
+    <Operators>
+        <Operator>
+            <OperatorID>85051710</OperatorID>
+            <OperatorName>
+                <Zh_tw>源點科技股份有限公司</Zh_tw>
+            </OperatorName>
+            <Telephone>06-6020889</Telephone>
+            <Address>臺南市歸仁區高發二路360號B406</Address>
+            <WebURL>https://www.evoasis.com.tw</WebURL>
+            <LogoURL>https://evoasis.s3.ap-northeast-1.amazonaws.com/Notification/evoasis_logo.png</LogoURL>
+            <BAN>85051710</BAN>
+        </Operator>
+    </Operators>
+</EVOperatorList>

@@ -1,0 +1,22 @@
+<EVOperatorList xmlns="https://traffic.transportdata.tw/standard/EVStation/schema/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://traffic.transportdata.tw/standard/EVStation/schema/">
+    <UpdateTime>2024-10-11T14:45:18+08:00</UpdateTime>
+    <UpdateInterval>86400</UpdateInterval>
+    <AuthorityCode>CYQ</AuthorityCode>
+    <OperatorID>60242679</OperatorID>
+    <Operators>
+        <Operator>
+            <OperatorID>60242679</OperatorID>
+            <OperatorName>
+                <Zh_tw>台灣碳資產股份有限公司</Zh_tw>
+                <En>Taiwan Carbon Asset Co., Ltd.</En>
+            </OperatorName>
+            <Telephone>04-2254-0209 #202</Telephone>
+            <Address>台中市西屯區朝富路213號24樓之7</Address>
+            <WebURL>https://www.co2asset.com.tw</WebURL>
+            <LogoURL>https://begin.co2asset.com.tw/apis/file/download?fileName=%E6%9C%AA%E6%A0%87%E9%A2%98-2_%E7%94%BB%E6%9D%BF%201_%E7%94%BB%E6%9D%BF%201_1668138235211_1670918753418.png</LogoURL>
+            <TsAndCsURL>https://pv.co2asset.com.tw</TsAndCsURL>
+            <BAN>60242679</BAN>
+        </Operator>
+    </Operators>
+</EVOperatorList>

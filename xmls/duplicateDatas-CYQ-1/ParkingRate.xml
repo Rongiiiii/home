@@ -1,0 +1,21 @@
+<EVParkingRateList xmlns="https://traffic.transportdata.tw/standard/EVStation/schema/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://traffic.transportdata.tw/standard/EVStation/schema/">
+    <UpdateTime>2024-10-11T14:05:34+08:00</UpdateTime>
+    <UpdateInterval>86400</UpdateInterval>
+    <AuthorityCode>CYQ</AuthorityCode>
+    <OperatorID>85051710</OperatorID>
+    <ParkingRates>
+        <ParkingRate>
+            <StationID>AAAAA</StationID>
+            <Rates>
+                <Rate>
+                    <RateType>3</RateType>
+                    <PricingType>1</PricingType>
+                    <DayType>1</DayType>
+                    <RatePrice>30</RatePrice>
+                    <MaxPrice>-1</MaxPrice>
+                </Rate>
+            </Rates>
+        </ParkingRate>
+    </ParkingRates>
+</EVParkingRateList>

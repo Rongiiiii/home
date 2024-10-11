@@ -1,0 +1,31 @@
+<EVConnectorList xmlns="https://traffic.transportdata.tw/standard/EVStation/schema/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://traffic.transportdata.tw/standard/EVStation/schema/">
+    <UpdateTime>2024-10-11T14:51:33+08:00</UpdateTime>
+    <UpdateInterval>86400</UpdateInterval>
+    <AuthorityCode>CYQ</AuthorityCode>
+    <OperatorID>60242679</OperatorID>
+    <Connectors>
+        <Connector>
+            <StationID>AAAAA</StationID>
+            <ChargingPointID>BBBBB</ChargingPointID>
+            <ConnectorID>60242679-C0079</ConnectorID>
+            <Type>5</Type>
+            <Power>1</Power>
+            <Voltage>220V</Voltage>
+            <CurrentRating>48A</CurrentRating>
+            <PowerRating>11kw</PowerRating>
+            <Floor>1</Floor>
+        </Connector>
+        <Connector>
+            <StationID>60242679-S0019</StationID>
+            <ChargingPointID>60242679-P0039</ChargingPointID>
+            <ConnectorID>60242679-C0078</ConnectorID>
+            <Type>5</Type>
+            <Power>1</Power>
+            <Voltage>220V</Voltage>
+            <CurrentRating>48A</CurrentRating>
+            <PowerRating>11kw</PowerRating>
+            <Floor>1</Floor>
+        </Connector>
+    </Connectors>
+</EVConnectorList>

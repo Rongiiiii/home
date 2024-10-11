@@ -1,0 +1,45 @@
+<EVStationList xmlns="https://traffic.transportdata.tw/standard/EVStation/schema/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://traffic.transportdata.tw/standard/EVStation/schema/">
+    <UpdateTime>2024-10-11T14:45:55+08:00</UpdateTime>
+    <UpdateInterval>86400</UpdateInterval>
+    <AuthorityCode>CYQ</AuthorityCode>
+    <OperatorID>60242679</OperatorID>
+    <Stations>
+        <Station>
+            <StationID>AAAAA</StationID>
+            <StationName>
+                <Zh_tw>阿里山遊客中心站</Zh_tw>
+            </StationName>
+            <Description>充電車位 2 個,充電樁 2 座,J1772*2</Description>
+            <OperatorID>60242679</OperatorID>
+            <OperationType>2</OperationType>
+            <PositionLat>23.51095</PositionLat>
+            <PositionLon>120.80349</PositionLon>
+            <Spaces>2</Spaces>
+            <ChargingPoints>2</ChargingPoints>
+            <Connectors>
+                <Connector>
+                    <Type>5</Type>
+                    <Power>1</Power>
+                    <Quantity>2</Quantity>
+                </Connector>
+            </Connectors>
+            <ServiceTime>每日/00:00-24:00</ServiceTime>
+            <ParkingRate>充電停車費：免費</ParkingRate>
+            <ChargingRate>AC:計度/固定/9.00元每度;DC:免費</ChargingRate>
+            <Floors>1</Floors>
+            <Location>
+                <Place>
+                    <POI>阿里山鄉阿里山國家森林遊樂區</POI>
+                </Place>
+                <Address>
+                    <City>嘉義縣</City>
+                    <Town>阿里山鄉</Town>
+                    <Road>中正村東</Road>
+                    <No>59號</No>
+                </Address>
+            </Location>
+            <Telephone>0800-888-116</Telephone>
+        </Station>
+    </Stations>
+</EVStationList>
