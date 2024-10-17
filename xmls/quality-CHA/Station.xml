@@ -106,9 +106,8 @@
             <OperationType>3</OperationType>
             <PositionLat>25.04066</PositionLat>
             <PositionLon>121.37274</PositionLon>
-            <Spaces/>
-            <ChargingPoints/>
-            <Connectors/>
+            <Spaces>1</Spaces>
+            <ChargingPoints>1</ChargingPoints>
             <ServiceTime>24小時/每日/08:00-17:00</ServiceTime>
             <ParkingRate>計時/每日/每小時30元</ParkingRate>
             <ChargingRate>計度/00:00-24:00/每度7.5元</ChargingRate>
