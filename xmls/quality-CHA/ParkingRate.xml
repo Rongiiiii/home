@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EVParkingRateList xmlns="https://traffic.transportdata.tw/standard/EVStation/schema/" xsi:schemaLocation="https://traffic.transportdata.tw/standard/EVStation/schema/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <UpdateTime>2024-10-17T10:00:21+08:00</UpdateTime>
+    <UpdateInterval>60</UpdateInterval>
+    <AuthorityCode>CHA</AuthorityCode>
+    <OperatorID>50965513</OperatorID>
+    <ParkingRates>
+        <ParkingRate>
+            <StationID>S-01</StationID>
+            <Rates>
+                <Rate>
+                    <RateType>3</RateType>
+                    <PricingType>1</PricingType>
+                    <DayType>1</DayType>
+                    <RatePrice>20</RatePrice>
+                    <MaxPrice>-1</MaxPrice>
+                </Rate>
+            </Rates>
+        </ParkingRate>
+        <ParkingRate>
+            <StationID>S-02</StationID>
+            <Rates>
+                <Rate>
+                    <RateType>3</RateType>
+                    <PricingType>1</PricingType>
+                    <DayType>1</DayType>
+                    <RatePrice>20</RatePrice>
+                    <MaxPrice>-1</MaxPrice>
+                </Rate>
+            </Rates>
+        </ParkingRate>
+        <ParkingRate>
+            <StationID>S-03</StationID>
+            <Rates>
+                <Rate>
+                    <RateType>3</RateType>
+                    <PricingType>1</PricingType>
+                    <DayType>1</DayType>
+                    <RatePrice>30</RatePrice>
+                    <MaxPrice>-1</MaxPrice>
+                </Rate>
+            </Rates>
+        </ParkingRate>
+    </ParkingRates>
+</EVParkingRateList>

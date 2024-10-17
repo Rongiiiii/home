@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EVOperatorList xmlns="https://traffic.transportdata.tw/standard/EVStation/schema/" xsi:schemaLocation="https://traffic.transportdata.tw/standard/EVStation/schema/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <UpdateTime>2024-10-17T10:00:57+08:00</UpdateTime>
+    <UpdateInterval>60</UpdateInterval>
+    <AuthorityCode>CHA</AuthorityCode>
+    <OperatorID>50965513</OperatorID>
+    <Operators>
+        <Operator>
+            <OperatorID>50965513</OperatorID>
+            <OperatorName>
+                <Zh_tw>承翊系統整合股份有限公司</Zh_tw>
+            </OperatorName>
+            <Telephone>02-87683696#307</Telephone>
+            <Address>桃園市桃園區大興路290巷33號12樓</Address>
+            <WebURL>https://www.chacha-charging.com/index</WebURL>
+            <LogoURL>https://www.chacha-charging.com/userfiles/images/LOGO.jpg</LogoURL>
+            <TsAndCsURL>https://www.chacha-charging.com/portfolio</TsAndCsURL>
+            <BAN>50965513</BAN>
+        </Operator>
+    </Operators>
+</EVOperatorList>

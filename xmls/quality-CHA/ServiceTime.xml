@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EVServiceTimeList xmlns="https://traffic.transportdata.tw/standard/EVStation/schema/" xsi:schemaLocation="https://traffic.transportdata.tw/standard/EVStation/schema/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <UpdateTime>2024-10-17T10:00:08+08:00</UpdateTime>
+    <UpdateInterval>60</UpdateInterval>
+    <AuthorityCode>CHA</AuthorityCode>
+    <OperatorID>50965513</OperatorID>
+    <ServiceTimes>
+        <ServiceTime>
+            <StationID>S-01</StationID>
+            <OpeningHours>
+                <OpeningHour>
+                    <ServiceType>1</ServiceType>
+                    <DayType>1</DayType>
+                    <StartTime>00:00</StartTime>
+                    <EndTime>24:00</EndTime>
+                </OpeningHour>
+            </OpeningHours>
+        </ServiceTime>
+        <ServiceTime>
+            <StationID>S-02</StationID>
+            <OpeningHours>
+                <OpeningHour>
+                    <ServiceType>1</ServiceType>
+                    <DayType>1</DayType>
+                    <StartTime>00:00</StartTime>
+                    <EndTime>24:00</EndTime>
+                </OpeningHour>
+            </OpeningHours>
+        </ServiceTime>
+        <ServiceTime>
+            <StationID>S-01</StationID>
+            <OpeningHours>
+                <OpeningHour>
+                    <ServiceType>1</ServiceType>
+                    <DayType>1</DayType>
+                    <StartTime>08:00</StartTime>
+                    <EndTime>17:00</EndTime>
+                </OpeningHour>
+            </OpeningHours>
+        </ServiceTime>
+    </ServiceTimes>
+</EVServiceTimeList>
