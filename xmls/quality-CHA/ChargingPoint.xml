@@ -80,6 +80,10 @@
                     <Type>3</Type>
                     <Quantity>1</Quantity>
                 </Connector>
+                <Connector>
+                    <Type>3</Type>
+                    <Quantity>1</Quantity>
+                </Connector>
             </Connectors>
             <ChargingRate>計度/00:00-24:00/每度7元</ChargingRate>
             <Payment>

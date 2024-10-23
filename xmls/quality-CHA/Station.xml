@@ -26,6 +26,11 @@
                     <Quantity>3</Quantity>
                 </Connector>
                 <Connector>
+                    <Type>5</Type>
+                    <Power>1</Power>
+                    <Quantity>3</Quantity>
+                </Connector>
+                <Connector>
                     <Type>3</Type>
                     <Power>1</Power>
                     <Quantity>3</Quantity>
