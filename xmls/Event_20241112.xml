@@ -21,7 +21,7 @@
       </Location>
       <Impact>
         <Severity>0</Severity>
-        <BlockWay>-1</BlockWay>
+        <BlockWay>0</BlockWay>
       </Impact>
       <AttachmentURLs />
       <Source>3</Source>
@@ -45,7 +45,7 @@
       </Location>
       <Impact>
         <Severity>0</Severity>
-        <BlockWay>-1</BlockWay>
+        <BlockWay>0</BlockWay>
       </Impact>
       <AttachmentURLs />
       <Source>333</Source>

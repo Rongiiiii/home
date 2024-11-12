@@ -32,7 +32,7 @@
         <Regulations>
           <Regulation>0</Regulation>
         </Regulations>
-        <BlockWay>-1</BlockWay>
+        <BlockWay>0</BlockWay>
         <BlockedLanes>-1</BlockedLanes>
         <Detour>
           <Description>rwerewr</Description>
@@ -66,7 +66,7 @@
       </Location>
       <Impact>
         <Severity>0</Severity>
-        <BlockWay>-1</BlockWay>
+        <BlockWay>0</BlockWay>
       </Impact>
       <AttachmentURLs />
       <Source>d</Source>
@@ -97,7 +97,7 @@
       </Location>
       <Impact>
         <Severity>0</Severity>
-        <BlockWay>-1</BlockWay>
+        <BlockWay>0</BlockWay>
       </Impact>
       <AttachmentURLs />
       <Source>eh</Source>
@@ -130,7 +130,7 @@
       </Location>
       <Impact>
         <Severity>0</Severity>
-        <BlockWay>-1</BlockWay>
+        <BlockWay>0</BlockWay>
       </Impact>
       <AttachmentURLs />
       <Source>43t</Source>
@@ -156,7 +156,7 @@
         <Regulations>
           <Regulation>0</Regulation>
         </Regulations>
-        <BlockWay>-1</BlockWay>
+        <BlockWay>0</BlockWay>
         <BlockedLanes>-1</BlockedLanes>
         <Detour>
           <Description>rewrwe</Description>
