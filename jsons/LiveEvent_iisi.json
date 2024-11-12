@@ -36,7 +36,7 @@
                     0
                 ],
                 "Duration": null,
-                "BlockWay": 0,
+                "BlockWay": -1,
                 "BlockedLanes": "-1",
                 "Detour": {
                     "Description": "rwerewr",
@@ -83,7 +83,7 @@
                 "Severity": 0,
                 "Regulations": null,
                 "Duration": null,
-                "BlockWay": 0,
+                "BlockWay": -1,
                 "BlockedLanes": null,
                 "Detour": null
             },
@@ -126,7 +126,7 @@
                 "Severity": 0,
                 "Regulations": null,
                 "Duration": null,
-                "BlockWay": 0,
+                "BlockWay": -1,
                 "BlockedLanes": null,
                 "Detour": null
             },
@@ -171,7 +171,7 @@
                 "Severity": 0,
                 "Regulations": null,
                 "Duration": null,
-                "BlockWay": 0,
+                "BlockWay": -1,
                 "BlockedLanes": null,
                 "Detour": null
             },
@@ -207,7 +207,7 @@
                     0
                 ],
                 "Duration": null,
-                "BlockWay": 0,
+                "BlockWay": -1,
                 "BlockedLanes": "-1",
                 "Detour": {
                     "Description": "rewrwe",
