@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-16"?>
+<EventList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://traffic.transportdata.tw/standard/Event/schema/" xsi:schemaLocation="https://traffic.transportdata.tw/standard/Event/schema/" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UpdateTime>2024-09-16T16:28:11</UpdateTime>
+  <UpdateInterval>0</UpdateInterval>
+  <AuthorityCode>TTT</AuthorityCode>
+  <Events>
+    <Event>
+      <EventID>January9487-02-2024091616281219</EventID>
+      <EventTitle>1</EventTitle>
+      <Description>2</Description>
+      <EventType>2</EventType>
+      <EventSubType>201</EventSubType>
+      <EventStep>1</EventStep>
+      <EffectiveTime>2024-09-18T00:00:00</EffectiveTime>
+      <ExpireTime>2024-09-26T00:00:00</ExpireTime>
+      <Positions>MULTIPOINT (122.879273 24.899631)</Positions>
+      <Geometry>MULTIPOINT (122.879273 24.899631)</Geometry>
+      <LocationType>0</LocationType>
+      <Location>
+        <Other>123</Other>
+      </Location>
+      <Impact>
+        <Severity>0</Severity>
+        <BlockWay>0</BlockWay>
+      </Impact>
+      <AttachmentURLs />
+      <Source>3</Source>
+      <PublishTime>2024-09-16T16:28:11</PublishTime>
+      <LastUpdateTime>2024-09-16T16:28:11</LastUpdateTime>
+    </Event>
+    <Event>
+      <EventID>January9487-02-2024091614030830</EventID>
+      <EventTitle>123</EventTitle>
+      <Description>123</Description>
+      <EventType>2</EventType>
+      <EventSubType>201</EventSubType>
+      <EventStep>1</EventStep>
+      <EffectiveTime>2024-09-19T00:00:00</EffectiveTime>
+      <ExpireTime>2024-09-20T00:00:00</ExpireTime>
+      <Positions>MULTIPOINT (121.547576 24.827252)</Positions>
+      <Geometry>MULTIPOINT (121.547576 24.827252)</Geometry>
+      <LocationType>0</LocationType>
+      <Location>
+        <Other>22</Other>
+      </Location>
+      <Impact>
+        <Severity>0</Severity>
+        <BlockWay>0</BlockWay>
+      </Impact>
+      <AttachmentURLs />
+      <Source>333</Source>
+      <PublishTime>2024-09-16T14:03:08</PublishTime>
+      <LastUpdateTime>2024-09-16T14:03:08</LastUpdateTime>
+    </Event>
+  </Events>
+</EventList>

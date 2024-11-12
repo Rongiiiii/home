@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LiveEventList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://traffic.transportdata.tw/standard/Event/schema/" xsi:schemaLocation="https://traffic.transportdata.tw/standard/Event/schema/" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UpdateTime>2024-09-12T14:06:54</UpdateTime>
+  <UpdateInterval>0</UpdateInterval>
+  <AuthorityCode>TTT</AuthorityCode>
+  <LiveEvents>
+    <LiveEvent>
+      <EventID>January9487-02-2024050311331396</EventID>
+      <EventTitle>國快-查看</EventTitle>
+      <Description>rewre</Description>
+      <EventType>1</EventType>
+      <EventSubType>101</EventSubType>
+      <EventStep>1</EventStep>
+      <EffectiveTime>2024-04-05T00:00:00</EffectiveTime>
+      <ExpireTime>2024-04-05T00:03:00</ExpireTime>
+      <Positions>POINT (121.735283788124 25.1223526446469)</Positions>
+      <Geometry>MULTILINESTRING ((121.735283788124 25.1223526446469, 121.735133910316 25.1221896561473, 121.735121251257 25.1221758902124, 121.735107690908 25.1221611447207, 121.735101369858 25.1221542698352, 121.735086959118 25.1221385986999, 121.735072719056 25.1221231126885, 121.735046583516 25.1220946920148, 121.735028537669 25.1220750675896, 121.735010421957 25.1220553667724, 121.734963426952 25.1220042625561, 121.734884849819 25.1219188108181, 121.734785660895 25.1218109441801, 121.73475404388 25.1217765607065, 121.734725263501 25.1217452623945, 121.734713460906 25.1217324274528, 121.734187506854 25.1211606297027), (121.734385675766 25.1210218808617, 121.734950562671 25.1216031003484, 121.735032823507 25.1216877267101, 121.735060808535 25.1217165155782, 121.735162246414 25.1218208708156, 121.735266792479 25.1219284226372, 121.735295426163 25.1219578790028, 121.735318622073 25.1219817416568, 121.735339155969 25.1220028658529, 121.735357877938 25.1220221257754, 121.735542863975 25.122212429355))</Geometry>
+      <LocationType>0</LocationType>
+      <Location>
+        <FreeExpressHighway>
+          <Road>國道1號</Road>
+          <Direction>雙向</Direction>
+          <StartKM>0K+000</StartKM>
+          <EndKM>0K+200</EndKM>
+          <SectionStart>基隆端</SectionStart>
+          <SectionEnd>基隆端</SectionEnd>
+        </FreeExpressHighway>
+      </Location>
+      <Impact>
+        <Description>fgdfgfdgdfg</Description>
+        <Severity>0</Severity>
+        <Regulations>
+          <Regulation>0</Regulation>
+        </Regulations>
+        <BlockWay>0</BlockWay>
+        <BlockedLanes>-1</BlockedLanes>
+        <Detour>
+          <Description>rwerewr</Description>
+          <AttachmentURL>fsdfer</AttachmentURL>
+        </Detour>
+      </Impact>
+      <AttachmentURLs />
+      <Source>fgdfhtrt</Source>
+      <PublishTime>2024-05-03T11:33:13</PublishTime>
+      <LastUpdateTime>2024-05-03T11:33:13</LastUpdateTime>
+    </LiveEvent>
+    <LiveEvent>
+      <EventID>January9487-02-2024052211543537</EventID>
+      <EventTitle>v</EventTitle>
+      <Description>sn</Description>
+      <EventType>1</EventType>
+      <EventSubType>101</EventSubType>
+      <EventStep>3</EventStep>
+      <EffectiveTime>2024-05-22T00:00:00</EffectiveTime>
+      <ExpireTime xsi:nil="true" />
+      <Positions>POINT (121.728798351641 25.1158451528825)</Positions>
+      <Geometry>MULTILINESTRING ((121.728798351641 25.1158451528825, 121.728520339616 25.1154165707222, 121.728268017686 25.1149973183848, 121.728268017686 25.1149973183848, 121.7281369155 25.1147774083903, 121.728114051186 25.1147390894468, 121.728090658091 25.1146998838603, 121.728075756745 25.1146749103823, 121.728059786786 25.1146481429148, 121.727943524667 25.114453289564, 121.727736477674 25.114045855149, 121.727604751188 25.1137312056962, 121.727262935465 25.1129098673056, 121.727262935465 25.1129098673056, 121.727122752544 25.1125697255496, 121.727111152577 25.1125415796585, 121.7270995506 25.1125134283594, 121.726810220291 25.1118003325534, 121.726494923519 25.1110530504964, 121.72577178831 25.1092042461545, 121.725510581266 25.1085696117911, 121.725500702 25.1085456092054, 121.725488943653 25.1085170405309, 121.725049182137 25.1074485718283, 121.724842286787 25.1069735011116), (121.724965968946 25.1069433846851, 121.725092615746 25.1072347232157, 121.725599340686 25.1084806609796, 121.725610897859 25.1085090753515, 121.725620225515 25.1085320108365, 121.725783402139 25.1089332267101, 121.726522169974 25.1107640397645, 121.726522169974 25.1107640397645, 121.727005344455 25.1119511970192, 121.727205621568 25.1124508954583, 121.727217008956 25.1124793087042, 121.727228393338 25.1125077156443, 121.72749263352 25.1131669953498, 121.727879538387 25.1140429076778, 121.728098624455 25.114489695316, 121.728155386834 25.11458253172, 121.728169179196 25.1146050902908, 121.728187098756 25.1146343985169, 121.728208386572 25.1146692160973, 121.728233863677 25.1147108850384, 121.728365692226 25.1149273563112, 121.72842449159 25.1150255306452, 121.728582266603 25.1152785558675))</Geometry>
+      <LocationType>0</LocationType>
+      <Location>
+        <FreeExpressHighway>
+          <Road>國道1號</Road>
+          <Direction>雙向</Direction>
+          <StartKM>1K+000</StartKM>
+          <EndKM>2K+000</EndKM>
+        </FreeExpressHighway>
+      </Location>
+      <Impact>
+        <Severity>0</Severity>
+        <BlockWay>0</BlockWay>
+      </Impact>
+      <AttachmentURLs />
+      <Source>d</Source>
+      <PublishTime>2024-05-22T14:47:22</PublishTime>
+      <LastUpdateTime>2024-05-22T14:47:22</LastUpdateTime>
+    </LiveEvent>
+    <LiveEvent>
+      <EventID>January9487-02-2024091213563554</EventID>
+      <EventTitle>,i</EventTitle>
+      <Description>iuk</Description>
+      <EventType>1</EventType>
+      <EventSubType>101</EventSubType>
+      <EventStep>2</EventStep>
+      <EffectiveTime>2024-09-12T00:00:00</EffectiveTime>
+      <ExpireTime xsi:nil="true" />
+      <Positions>POINT (120.60315619873 24.306819824953)</Positions>
+      <Geometry>LINESTRING (120.60315619873 24.306819824953, 120.603185229442 24.3068241534958, 120.604092014118 24.3069246659212, 120.605393852061 24.3070726291585, 120.606316716659 24.3071560816868, 120.607068113928 24.3072193674165, 120.608055518249 24.3072593442602, 120.608056964374 24.3072594021666, 120.608214868719 24.3072545384019, 120.608214868719 24.3072545384019, 120.608958413854 24.3073189755413, 120.608981816722 24.307320281807, 120.60945616477 24.3073467475858, 120.610050205766 24.3073712186358, 120.610441054274 24.3073830113836, 120.610546079047 24.3073861772562, 120.610631182506 24.3073887448236, 120.610642011059 24.3073890723494, 120.610816768622 24.3073926280669, 120.610884356528 24.3073940021102, 120.610918908064 24.3073947064108, 120.611162051539 24.3073996522194, 120.612329947188 24.3074105743173, 120.612901426299 24.3074127434318, 120.613024092861 24.3074132113268)</Geometry>
+      <LocationType>0</LocationType>
+      <Location>
+        <FreeExpressHighway>
+          <Road>國道4號</Road>
+          <Direction>東向</Direction>
+          <StartKM>2K+000</StartKM>
+          <EndKM>3K+000</EndKM>
+          <SectionStart>神岡交流道</SectionStart>
+          <SectionEnd>后豐交流道</SectionEnd>
+        </FreeExpressHighway>
+      </Location>
+      <Impact>
+        <Severity>0</Severity>
+        <BlockWay>0</BlockWay>
+      </Impact>
+      <AttachmentURLs />
+      <Source>eh</Source>
+      <PublishTime>2024-09-12T14:06:54</PublishTime>
+      <LastUpdateTime>2024-09-12T14:06:54</LastUpdateTime>
+    </LiveEvent>
+    <LiveEvent xsi:nil="true" />
+    <LiveEvent xsi:nil="true" />
+    <LiveEvent>
+      <EventID>January9487-02-2024091019232242</EventID>
+      <EventTitle>34gt143</EventTitle>
+      <Description>t134t</Description>
+      <EventType>1</EventType>
+      <EventSubType>101</EventSubType>
+      <EventStep>1</EventStep>
+      <EffectiveTime>2024-09-10T00:00:00</EffectiveTime>
+      <ExpireTime>2024-09-26T00:00:00</ExpireTime>
+      <Positions>POINT (121.647178767505 25.0088097458641)</Positions>
+      <Geometry>LINESTRING (121.647178767505 25.0088097458641, 121.647239835345 25.008747369276, 121.64733427102 25.0086505130431, 121.647383654262 25.0085998649729, 121.647422321052 25.0085602072793, 121.6474367446 25.0085454144055, 121.647445733574 25.0085361956033, 121.647454599363 25.0085271019232, 121.647491463782 25.0084892928676, 121.647642413533 25.0083344734832, 121.647675062897 25.0083009240923, 121.648206085347 25.0077552640671, 121.648721457322 25.0072366497193, 121.649071250736 25.0068695076557, 121.649128297515 25.0068047030722, 121.649300914115 25.0066122652966, 121.649542575338 25.0063300556217, 121.649900318241 25.0058499808865, 121.650273990897 25.0051352954399, 121.650460181225 25.0046543596059, 121.650460181225 25.0046543596059, 121.650649302799 25.003983513026, 121.650798349439 25.0031695210903, 121.651000584934 25.0020041610301, 121.651224923977 25.0007334995738)</Geometry>
+      <LocationType>0</LocationType>
+      <Location>
+        <FreeExpressHighway>
+          <Road>國道5號</Road>
+          <Direction>南向</Direction>
+          <StartKM>4K+000</StartKM>
+          <EndKM>5K+000</EndKM>
+          <SectionStart>基隆端</SectionStart>
+          <SectionEnd>基隆端</SectionEnd>
+        </FreeExpressHighway>
+      </Location>
+      <Impact>
+        <Severity>0</Severity>
+        <BlockWay>0</BlockWay>
+      </Impact>
+      <AttachmentURLs />
+      <Source>43t</Source>
+      <PublishTime>2024-09-10T19:23:22</PublishTime>
+      <LastUpdateTime>2024-09-10T19:23:22</LastUpdateTime>
+    </LiveEvent>
+    <LiveEvent>
+      <EventID>January9487-02-2024042610045640</EventID>
+      <EventTitle>draw-view</EventTitle>
+      <Description>koewf</Description>
+      <EventType>1</EventType>
+      <EventSubType>101</EventSubType>
+      <EventStep>1</EventStep>
+      <EffectiveTime>2024-04-17T00:00:00</EffectiveTime>
+      <ExpireTime xsi:nil="true" />
+      <Positions>MULTIPOINT (122.142640 25.220510)</Positions>
+      <Geometry>MULTIPOLYGON (((122.142640 25.220510, 122.542725 25.101330, 122.175558 24.961375, 122.355343 25.234254, 122.368004 24.972853, 122.142640 25.220510)))</Geometry>
+      <LocationType>0</LocationType>
+      <Location />
+      <Impact>
+        <Description>rewre</Description>
+        <Severity>0</Severity>
+        <Regulations>
+          <Regulation>0</Regulation>
+        </Regulations>
+        <BlockWay>0</BlockWay>
+        <BlockedLanes>-1</BlockedLanes>
+        <Detour>
+          <Description>rewrwe</Description>
+          <AttachmentURL>rewrwer</AttachmentURL>
+        </Detour>
+      </Impact>
+      <AttachmentURLs />
+      <Source>rwerewr</Source>
+      <PublishTime>2024-04-26T10:04:56</PublishTime>
+      <LastUpdateTime>2024-04-26T10:04:56</LastUpdateTime>
+    </LiveEvent>
+  </LiveEvents>
+</LiveEventList>

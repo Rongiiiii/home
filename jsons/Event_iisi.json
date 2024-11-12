@@ -1,0 +1,77 @@
+{
+    "Events": [
+        {
+            "EventID": "January9487-02-2024091616281219",
+            "EventTitle": "1",
+            "Description": "2",
+            "EventType": 2,
+            "EventSubType": 201,
+            "EventStep": 1,
+            "EffectiveTime": "2024-09-18T00:00:00",
+            "ExpireTime": "2024-09-26T00:00:00",
+            "Positions": "MULTIPOINT (122.879273 24.899631)",
+            "Geometry": "MULTIPOINT (122.879273 24.899631)",
+            "LocationType": 0,
+            "Location": {
+                "FreeExpressHighway": null,
+                "CityRoad": null,
+                "Intersection": null,
+                "Address": null,
+                "Place": null,
+                "Other": "123"
+            },
+            "Impact": {
+                "Description": null,
+                "Severity": 0,
+                "Regulations": null,
+                "Duration": null,
+                "BlockWay": 0,
+                "BlockedLanes": null,
+                "Detour": null
+            },
+            "WebURL": null,
+            "AttachmentURLs": [],
+            "Source": "3",
+            "PublishTime": "2024-09-16T16:28:11",
+            "LastUpdateTime": "2024-09-16T16:28:11"
+        },
+        {
+            "EventID": "January9487-02-2024091614030830",
+            "EventTitle": "123",
+            "Description": "123",
+            "EventType": 2,
+            "EventSubType": 201,
+            "EventStep": 1,
+            "EffectiveTime": "2024-09-19T00:00:00",
+            "ExpireTime": "2024-09-20T00:00:00",
+            "Positions": "MULTIPOINT (121.547576 24.827252)",
+            "Geometry": "MULTIPOINT (121.547576 24.827252)",
+            "LocationType": 0,
+            "Location": {
+                "FreeExpressHighway": null,
+                "CityRoad": null,
+                "Intersection": null,
+                "Address": null,
+                "Place": null,
+                "Other": "22"
+            },
+            "Impact": {
+                "Description": null,
+                "Severity": 0,
+                "Regulations": null,
+                "Duration": null,
+                "BlockWay": 0,
+                "BlockedLanes": null,
+                "Detour": null
+            },
+            "WebURL": null,
+            "AttachmentURLs": [],
+            "Source": "333",
+            "PublishTime": "2024-09-16T14:03:08",
+            "LastUpdateTime": "2024-09-16T14:03:08"
+        }
+    ],
+    "UpdateTime": "2024-09-16T16:28:11",
+    "UpdateInterval": 0,
+    "AuthorityCode": "TTT"
+}
