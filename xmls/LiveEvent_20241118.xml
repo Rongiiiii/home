@@ -137,7 +137,9 @@
             <Positions>MULTIPOINT (122.142640 25.220510)</Positions>
             <Geometry>MULTIPOLYGON (((122.142640 25.220510, 122.542725 25.101330, 122.175558 24.961375, 122.355343 25.234254, 122.368004 24.972853, 122.142640 25.220510)))</Geometry>
             <LocationType>0</LocationType>
-            <Location />
+            <Location>
+                <Other>123</Other>
+            </Location>
             <Impact>
                 <Description>rewre</Description>
                 <Severity>0</Severity>
