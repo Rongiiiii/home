@@ -1,0 +1,53 @@
+<ShuttleBusWrapperRouteList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="https://ptx.transportdata.tw/standard/schema/" xsi:schemaLocation="https://ptx.transportdata.tw/standard/schema/">
+    <UpdateTime>2026-03-24T14:12:37+08:00</UpdateTime>
+    <UpdateInterval>14400</UpdateInterval>
+    <SrcUpdateTime>2024-01-01T00:00:00+08:00</SrcUpdateTime>
+    <SrcUpdateInterval>-1</SrcUpdateInterval>
+    <AuthorityCode>TSGHKLB</AuthorityCode>
+    <Count xsi:nil="true"/>
+    <Routes>
+        <Route>
+            <OperatorID>29280753</OperatorID>
+            <RouteID>29280753-01</RouteID>
+            <RouteName>
+                <Zh_tw>三總內湖院區 —基隆慶安宮—基隆院區—孝二門診</Zh_tw>
+                <En>TSGH—Keelung Qing'an Temple—TSGH KEELUNG-TSGH—TSGH Xiao Er</En>
+            </RouteName>
+            <StartStop>
+                <StopID>001</StopID>
+                <StopName>內湖院區</StopName>
+            </StartStop>
+            <EndStop>
+                <StopID>001</StopID>
+                <StopName>內湖院區</StopName>
+            </EndStop>
+            <IsFreeBus>true</IsFreeBus>
+            <FarePricingType>不收費</FarePricingType>
+            <BoardingRestriction>一、本車為中型巴士，搭乘人數限21人(含駕駛、小孩)，客滿時，請耐心等候下一班車。 二、持有基隆分院公務證者，可優先上車，尚有空位時，則開放給一般排隊民眾搭乘並請依順序上車。 三、本車因走道空間狹窄，顧及乘客空氣品質及安全，請搭乘者勿攜帶大型行李箱、拖式菜籃、回收物品、輪椅等上車，未依上述規定者，拒絕乘載，感謝配合。</BoardingRestriction>
+            <ScheduleType>預定時刻表</ScheduleType>
+            <RouteMapImageURL>https://wwwv.tsgh.ndmctsgh.edu.tw/unit/50000/16483</RouteMapImageURL>
+        </Route>
+        <Route>
+            <OperatorID>29280753</OperatorID>
+            <RouteID>29280753-02</RouteID>
+            <RouteName>
+                <Zh_tw>基隆院區-孝二門診</Zh_tw>
+                <En>TSGH KEELUNG-TSGH Xiao Er</En>
+            </RouteName>
+            <StartStop>
+                <StopID>003</StopID>
+                <StopName>基隆院區</StopName>
+            </StartStop>
+            <EndStop>
+                <StopID>003</StopID>
+                <StopName>基隆院區</StopName>
+            </EndStop>
+            <IsFreeBus>true</IsFreeBus>
+            <FarePricingType>不收費</FarePricingType>
+            <BoardingRestriction>一、本車為中型巴士，搭乘人數限21人(含駕駛、小孩)，客滿時，請耐心等候下一班車。 二、持有基隆分院公務證者，可優先上車，尚有空位時，則開放給一般排隊民眾搭乘並請依順序上車。 三、本車因走道空間狹窄，顧及乘客空氣品質及安全，請搭乘者勿攜帶大型行李箱、拖式菜籃、回收物品、輪椅等上車，未依上述規定者，拒絕乘載，感謝配合。</BoardingRestriction>
+            <ScheduleType>預定時刻表</ScheduleType>
+            <RouteMapImageURL>https://wwwv.tsgh.ndmctsgh.edu.tw/unit/50000/16483</RouteMapImageURL>
+        </Route>
+    </Routes>
+</ShuttleBusWrapperRouteList>
