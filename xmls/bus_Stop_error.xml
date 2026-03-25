@@ -1,0 +1,60 @@
+<ShuttleBusWrapperStopList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="https://ptx.transportdata.tw/standard/schema/" xsi:schemaLocation="https://ptx.transportdata.tw/standard/schema/">
+    <UpdateTime>2026-03-24T14:12:37+08:00</UpdateTime>
+    <UpdateInterval>14400</UpdateInterval>
+    <AuthorityCode>IISI</AuthorityCode>
+    <Count xsi:nil="true"/>
+    <Stops>
+        <Stop>
+            <OperatorID>29280753</OperatorID>
+            <StopName>
+                <Zh_tw>內湖院區</Zh_tw>
+                <En>TSGH</En>
+            </StopName>
+            <StopPosition>
+                <PositionLat>25.07182</PositionLat>
+                <PositionLon>121.59247</PositionLon>
+            </StopPosition>
+            <StopURL>https://wwwv.tsgh.ndmctsgh.edu.tw/unit/50000/16483</StopURL>
+        </Stop>
+        <Stop>
+            <OperatorID>29280753</OperatorID>
+            <StopID>002</StopID>
+            <StopName>
+                <Zh_tw>慶安宮</Zh_tw>
+                <En>Keelung Qing'an Temple</En>
+            </StopName>
+            <StopPosition>
+                <PositionLat>25.12966</PositionLat>
+                <PositionLon>121.74059</PositionLon>
+            </StopPosition>
+            <StopURL>https://wwwv.tsgh.ndmctsgh.edu.tw/unit/50000/16483</StopURL>
+        </Stop>
+        <Stop>
+            <OperatorID>29280753</OperatorID>
+            <StopID>003</StopID>
+            <StopName>
+                <Zh_tw>基隆院區</Zh_tw>
+                <En>TSGH KEELUNG</En>
+            </StopName>
+            <StopPosition>
+                <PositionLat>25.13048</PositionLat>
+                <PositionLon>121.73822</PositionLon>
+            </StopPosition>
+            <StopURL>https://wwwv.tsgh.ndmctsgh.edu.tw/unit/50000/16483</StopURL>
+        </Stop>
+        <Stop>
+            <OperatorID>29280753</OperatorID>
+            <StopID>004</StopID>
+            <StopName>
+                <Zh_tw>孝二門診</Zh_tw>
+                <En>TSGH Xiao Er</En>
+            </StopName>
+            <StopPosition>
+                <PositionLat>25.12930</PositionLat>
+                <PositionLon>121.73873</PositionLon>
+            </StopPosition>
+            <StopURL>https://wwwv.tsgh.ndmctsgh.edu.tw/unit/50000/16483</StopURL>
+        </Stop>
+    </Stops>
+</ShuttleBusWrapperStopList>
