@@ -38,7 +38,7 @@
                 </ServiceDay>
             </TimeTables>
             <TimeTables>
-                <TripID>1-2</TripID>
+                <TripID>2</TripID>
                 <StopTimes>
                     <StopTime>
                         <StopSequence>1</StopSequence>

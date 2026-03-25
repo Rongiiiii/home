@@ -10,7 +10,7 @@
             <RouteID>29280754-01</RouteID>
             <Direction>去程</Direction>
             <TimeTables>
-                <TripID>1-1</TripID>
+                <TripID>1</TripID>
                 <StopTimes>
                     <StopTime>
                         <StopSequence>1</StopSequence>
@@ -39,7 +39,7 @@
                 </ServiceDay>
             </TimeTables>
             <TimeTables>
-                <TripID>1-2</TripID>
+                <TripID>2</TripID>
                 <StopTimes>
                     <StopTime>
                         <StopSequence>1</StopSequence>
@@ -66,7 +66,7 @@
             <RouteID>29280754-02</RouteID>
             <Direction>回程</Direction>
             <TimeTables>
-                <TripID>2-1</TripID>
+                <TripID>3</TripID>
                 <StopTimes>
                     <StopTime>
                         <StopSequence>1</StopSequence>
@@ -88,7 +88,7 @@
                 </ServiceDay>
             </TimeTables>
             <TimeTables>
-                <TripID>2-2</TripID>
+                <TripID>4</TripID>
                 <StopTimes>
                     <StopTime>
                         <StopSequence>1</StopSequence>
