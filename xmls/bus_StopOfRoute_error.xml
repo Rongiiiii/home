@@ -10,59 +10,33 @@
             <RouteID>29280753-01</RouteID>
             <Direction>去程</Direction>
             <Stops>
-                <StopSequence>1</StopSequence>
-                <StopID>001</StopID>
-                <BoardingType>可上下車</BoardingType>
-            </Stops>
-            <Stops>
-                <StopSequence>2</StopSequence>
-                <StopID>002</StopID>
-                <BoardingType>可上下車</BoardingType>
-            </Stops>
-            <Stops>
-                <StopSequence>3</StopSequence>
-                <StopID>003</StopID>
-                <BoardingType>可上下車</BoardingType>
-            </Stops>
-            <Stops>
-                <StopSequence>4</StopSequence>
-                <StopID>004</StopID>
-                <BoardingType>可上下車</BoardingType>
-            </Stops>
-            <Stops>
-                <StopSequence>5</StopSequence>
-                <StopID>001</StopID>
-                <BoardingType>可上下車</BoardingType>
-            </Stops>
+                <Stop>
+                    <StopSequence>1</StopSequence>
+                    <StopID>001</StopID>
+                    <BoardingType>可上下車</BoardingType>
+                </Stop>
+                <Stop>
+                    <StopSequence>2</StopSequence>
+                    <StopID>002</StopID>
+                    <BoardingType>可上下車</BoardingType>
+                </Stop>
+            </Stop>
         </StopOfRoute>
         <StopOfRoute>
-            <OperatorID>29280754</OperatorID>
-            <RouteID>29280754-01</RouteID>
+            <OperatorID>29280753</OperatorID>
+            <Direction>去程</Direction>
             <Stops>
-                <StopSequence>1</StopSequence>
-                <StopID>001</StopID>
-                <BoardingType>可上下車</BoardingType>
-            </Stops>
-            <Stops>
-                <StopSequence>2</StopSequence>
-                <StopID>002</StopID>
-                <BoardingType>可上下車</BoardingType>
-            </Stops>
-            <Stops>
-                <StopSequence>3</StopSequence>
-                <StopID>003</StopID>
-                <BoardingType>可上下車</BoardingType>
-            </Stops>
-            <Stops>
-                <StopSequence>4</StopSequence>
-                <StopID>004</StopID>
-                <BoardingType>可上下車</BoardingType>
-            </Stops>
-            <Stops>
-                <StopSequence>5</StopSequence>
-                <StopID>001</StopID>
-                <BoardingType>可上下車</BoardingType>
-            </Stops>
+                <Stop>
+                    <StopSequence>1</StopSequence>
+                    <StopID>001</StopID>
+                    <BoardingType>可上下車</BoardingType>
+                </Stop>
+                <Stop>
+                    <StopSequence>2</StopSequence>
+                    <StopID>002</StopID>
+                    <BoardingType>可上下車</BoardingType>
+                </Stop>
+            </Stop>
         </StopOfRoute>
     </StopOfRoutes>
 </ShuttleBusWrapperStopOfRouteList>
