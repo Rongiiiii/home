@@ -2,14 +2,42 @@
     xmlns="https://ptx.transportdata.tw/standard/schema/" xsi:schemaLocation="https://ptx.transportdata.tw/standard/schema/">
     <UpdateTime>2026-03-24T14:12:37+08:00</UpdateTime>
     <UpdateInterval>14400</UpdateInterval>
-    <SrcUpdateTime>2024-01-01T00:00:00+08:00</SrcUpdateTime>
-    <SrcUpdateInterval>-1</SrcUpdateInterval>
-    <AuthorityCode>TSGHKLB</AuthorityCode>
+    <AuthorityCode>IISI</AuthorityCode>
     <Count xsi:nil="true"/>
     <StopOfRoutes>
         <StopOfRoute>
             <OperatorID>29280753</OperatorID>
             <RouteID>29280753-01</RouteID>
+            <Direction>去程</Direction>
+            <Stops>
+                <StopSequence>1</StopSequence>
+                <StopID>001</StopID>
+                <BoardingType>可上下車</BoardingType>
+            </Stops>
+            <Stops>
+                <StopSequence>2</StopSequence>
+                <StopID>002</StopID>
+                <BoardingType>可上下車</BoardingType>
+            </Stops>
+            <Stops>
+                <StopSequence>3</StopSequence>
+                <StopID>003</StopID>
+                <BoardingType>可上下車</BoardingType>
+            </Stops>
+            <Stops>
+                <StopSequence>4</StopSequence>
+                <StopID>004</StopID>
+                <BoardingType>可上下車</BoardingType>
+            </Stops>
+            <Stops>
+                <StopSequence>5</StopSequence>
+                <StopID>001</StopID>
+                <BoardingType>可上下車</BoardingType>
+            </Stops>
+        </StopOfRoute>
+        <StopOfRoute>
+            <OperatorID>29280754</OperatorID>
+            <RouteID>29280754-01</RouteID>
             <Direction>去程</Direction>
             <Stops>
                 <StopSequence>1</StopSequence>

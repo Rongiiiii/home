@@ -2,9 +2,7 @@
     xmlns="https://ptx.transportdata.tw/standard/schema/" xsi:schemaLocation="https://ptx.transportdata.tw/standard/schema/">
     <UpdateTime>2026-03-24T14:12:37+08:00</UpdateTime>
     <UpdateInterval>14400</UpdateInterval>
-    <SrcUpdateTime>2024-01-01T00:00:00+08:00</SrcUpdateTime>
-    <SrcUpdateInterval>-1</SrcUpdateInterval>
-    <AuthorityCode>TSGHKLB</AuthorityCode>
+    <AuthorityCode>IISI</AuthorityCode>
     <Count xsi:nil="true"/>
     <Operators>
         <Operator>
@@ -12,6 +10,16 @@
             <OperatorName>
                 <Zh_tw>三軍總醫院基隆分院</Zh_tw>
                 <En>TRI SERVICE GENERAL HOSPITAL KEELUNG BRANCH</En>
+            </OperatorName>
+            <OperatorPhone>(02)2463-3330#79170、#79253</OperatorPhone>
+            <OperatorEmail>g_juiling@mail.ndmctsgh.edu.tw</OperatorEmail>
+            <OperatorURL>https://keelung.tsgh.ndmctsgh.edu.tw/</OperatorURL>
+        </Operator>
+        <Operator>
+            <OperatorID>29280754</OperatorID>
+            <OperatorName>
+                <Zh_tw>三軍總醫院基隆分院2</Zh_tw>
+                <En>TRI SERVICE GENERAL HOSPITAL KEELUNG BRANCH 2</En>
             </OperatorName>
             <OperatorPhone>(02)2463-3330#79170、#79253</OperatorPhone>
             <OperatorEmail>g_juiling@mail.ndmctsgh.edu.tw</OperatorEmail>
