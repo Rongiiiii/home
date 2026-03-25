@@ -20,7 +20,7 @@
                     <StopID>002</StopID>
                     <BoardingType>可上下車</BoardingType>
                 </Stop>
-            </Stop>
+            </Stops>
         </StopOfRoute>
         <StopOfRoute>
             <OperatorID>29280753</OperatorID>
@@ -37,7 +37,7 @@
                     <StopID>002</StopID>
                     <BoardingType>可上下車</BoardingType>
                 </Stop>
-            </Stop>
+            </Stops>
         </StopOfRoute>
     </StopOfRoutes>
 </ShuttleBusWrapperStopOfRouteList>
