@@ -65,7 +65,7 @@
         <Schedule>
             <OperatorID>29280754</OperatorID>
             <RouteID>29280754-02</RouteID>
-            <Direction>返程</Direction>
+            <Direction>回程</Direction>
             <TimeTables>
                 <TimeTable>
                     <TripID>3</TripID>

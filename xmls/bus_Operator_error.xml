@@ -24,5 +24,13 @@
             <OperatorEmail>g_juiling@mail.ndmctsgh.edu.tw</OperatorEmail>
             <OperatorURL>https://keelung.tsgh.ndmctsgh.edu.tw/</OperatorURL>
         </Operator>
+        <Operator>
+            <OperatorID>29280753</OperatorID>
+            <OperatorName>
+                <Zh_tw>三軍總醫院基隆分院3</Zh_tw>
+                <En>TRI SERVICE GENERAL HOSPITAL KEELUNG BRANCH</En>
+            </OperatorName>
+            <OperatorURL>https://keelung.tsgh.ndmctsgh.edu.tw/</OperatorURL>
+        </Operator>
     </Operators>
 </ShuttleBusWrapperOperatorList>
