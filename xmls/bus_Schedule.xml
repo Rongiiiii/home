@@ -18,14 +18,14 @@
                             <StopID>001</StopID>
                             <ArrivalTime>07:10</ArrivalTime>
                             <DepartureTime>07:10</DepartureTime>
-                            <TimeType>表訂時間</TimeType>
+                            <TimeType>1</TimeType>
                         </StopTime>
                         <StopTime>
                             <StopSequence>2</StopSequence>
                             <StopID>002</StopID>
                             <ArrivalTime>07:30</ArrivalTime>
                             <DepartureTime>07:30</DepartureTime>
-                            <TimeType>表訂時間</TimeType>
+                            <TimeType>1</TimeType>
                         </StopTime>
                     </StopTimes>
                     <ServiceDay>
@@ -47,7 +47,7 @@
                             <StopID>001</StopID>
                             <ArrivalTime>08:10</ArrivalTime>
                             <DepartureTime>08:10</DepartureTime>
-                            <TimeType>表訂時間</TimeType>
+                            <TimeType>1</TimeType>
                         </StopTime>
                     </StopTimes>
                     <ServiceDay>
@@ -76,7 +76,7 @@
                             <StopID>001</StopID>
                             <ArrivalTime>09:10</ArrivalTime>
                             <DepartureTime>09:10</DepartureTime>
-                            <TimeType>表訂時間</TimeType>
+                            <TimeType>1</TimeType>
                         </StopTime>
                     </StopTimes>
                     <ServiceDay>
@@ -98,7 +98,7 @@
                             <StopID>001</StopID>
                             <ArrivalTime>10:10</ArrivalTime>
                             <DepartureTime>10:10</DepartureTime>
-                            <TimeType>表訂時間</TimeType>
+                            <TimeType>1</TimeType>
                         </StopTime>
                     </StopTimes>
                     <ServiceDay>

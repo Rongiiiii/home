@@ -21,9 +21,9 @@
                 <StopName>內湖院區</StopName>
             </EndStop>
             <IsFreeBus>true</IsFreeBus>
-            <FarePricingType>不收費</FarePricingType>
+            <FarePricingType>0</FarePricingType>
             <BoardingRestriction>一、本車為中型巴士，搭乘人數限21人(含駕駛、小孩)，客滿時，請耐心等候下一班車。 二、持有基隆分院公務證者，可優先上車，尚有空位時，則開放給一般排隊民眾搭乘並請依順序上車。 三、本車因走道空間狹窄，顧及乘客空氣品質及安全，請搭乘者勿攜帶大型行李箱、拖式菜籃、回收物品、輪椅等上車，未依上述規定者，拒絕乘載，感謝配合。</BoardingRestriction>
-            <ScheduleType>預定時刻表</ScheduleType>
+            <ScheduleType>1</ScheduleType>
             <RouteMapImageURL>https://wwwv.tsgh.ndmctsgh.edu.tw/unit/50000/16483</RouteMapImageURL>
         </Route>
         <Route>
@@ -42,9 +42,9 @@
                 <StopName>基隆院區</StopName>
             </EndStop>
             <IsFreeBus>true</IsFreeBus>
-            <FarePricingType>不收費</FarePricingType>
+            <FarePricingType>0</FarePricingType>
             <BoardingRestriction>一、本車為中型巴士，搭乘人數限21人(含駕駛、小孩)，客滿時，請耐心等候下一班車。 二、持有基隆分院公務證者，可優先上車，尚有空位時，則開放給一般排隊民眾搭乘並請依順序上車。 三、本車因走道空間狹窄，顧及乘客空氣品質及安全，請搭乘者勿攜帶大型行李箱、拖式菜籃、回收物品、輪椅等上車，未依上述規定者，拒絕乘載，感謝配合。</BoardingRestriction>
-            <ScheduleType>預定時刻表</ScheduleType>
+            <ScheduleType>1</ScheduleType>
             <RouteMapImageURL>https://wwwv.tsgh.ndmctsgh.edu.tw/unit/50000/16483</RouteMapImageURL>
         </Route>
     </Routes>
