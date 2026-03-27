@@ -8,7 +8,7 @@
         <StopOfRoute>
             <OperatorID>29280753</OperatorID>
             <RouteID>29280753-01</RouteID>
-            <Direction>去程</Direction>
+            <Direction>0</Direction>
             <Stops>
                 <Stop>
                     <StopSequence>1</StopSequence>
@@ -24,7 +24,7 @@
         </StopOfRoute>
         <StopOfRoute>
             <OperatorID>29280753</OperatorID>
-            <Direction>去程</Direction>
+            <Direction>0</Direction>
             <Stops>
                 <Stop>
                     <StopSequence>1</StopSequence>
