@@ -25,7 +25,7 @@
         <StopOfRoute>
             <OperatorID>29280753</OperatorID>
             <RouteID>29280753-02</RouteID>
-            <Direction>去程</Direction>
+            <Direction>返程</Direction>
             <Stops>
                 <Stop>
                     <StopSequence>1</StopSequence>
