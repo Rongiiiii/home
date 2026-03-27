@@ -6,8 +6,8 @@
     <Count xsi:nil="true"/>
     <Schedules>
         <Schedule>
-            <OperatorID>29280754</OperatorID>
-            <RouteID>29280754-01</RouteID>
+            <OperatorID>29280753</OperatorID>
+            <RouteID>29280753-01</RouteID>
             <Direction>去程</Direction>
             <TimeTables>
                 <TimeTable>
@@ -64,8 +64,8 @@
             </TimeTables>
         </Schedule>
         <Schedule>
-            <OperatorID>29280754</OperatorID>
-            <RouteID>29280754-02</RouteID>
+            <OperatorID>29280753</OperatorID>
+            <RouteID>29280753-02</RouteID>
             <Direction>返程</Direction>
             <TimeTables>
                 <TimeTable>
@@ -113,6 +113,23 @@
                     </ServiceDay>
                 </TimeTable>
             </TimeTables>
+            <Frequencies>
+                <Frequency>
+                    <StartTime>11:10</StartTime>
+                    <EndTime>17:10</EndTime>
+                    <MinHeadwayMins>60</MinHeadwayMins>
+                    <MaxHeadwayMins>3600</MaxHeadwayMins>
+                    <ServiceDay>
+                        <Monday>1</Monday>
+                        <Tuesday>1</Tuesday>
+                        <Wednesday>1</Wednesday>
+                        <Thursday>1</Thursday>
+                        <Friday>1</Friday>
+                        <Saturday>1</Saturday>
+                        <Sunday>1</Sunday>
+                    </ServiceDay>
+                </Frequency>
+            </Frequencies>
         </Schedule>
     </Schedules>
 </ShuttleBusWrapperScheduleList>
