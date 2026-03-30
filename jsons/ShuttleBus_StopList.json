@@ -1,0 +1,79 @@
+{
+    "UpdateTime": "2026-03-30T10:11:19+08:00",
+    "UpdateInterval": -1,
+    "AuthorityCode": "HSPB",
+    "Stops": [
+        {
+            "StopID": "1513",
+            "StopName": {
+                "Zh_tw": "科技生活館",
+                "En": "Life Hub"
+            },
+            "StopPosition": {
+                "PositionLat": 24.77972,
+                "PositionLon": 121.00542
+            },
+            "StopURL": ""
+        },
+        {
+            "StopID": "1514",
+            "StopName": {
+                "Zh_tw": "金山街口",
+                "En": "Jinshan St"
+            },
+            "StopPosition": {
+                "PositionLat": 24.77817,
+                "PositionLon": 121.019
+            },
+            "StopURL": ""
+        },
+        {
+            "StopID": "1515",
+            "StopName": {
+                "Zh_tw": "竹中火車站",
+                "En": "Zhuzhong Station"
+            },
+            "StopPosition": {
+                "PositionLat": 24.78151,
+                "PositionLon": 121.03035
+            },
+            "StopURL": ""
+        },
+        {
+            "StopID": "1516",
+            "StopName": {
+                "Zh_tw": "高鐵新竹站",
+                "En": "Taiwan High Speed Rail Hsinchu Station"
+            },
+            "StopPosition": {
+                "PositionLat": 24.80732,
+                "PositionLon": 121.04057
+            },
+            "StopURL": ""
+        },
+        {
+            "StopID": "1517",
+            "StopName": {
+                "Zh_tw": "研發中心",
+                "En": "Research Institute"
+            },
+            "StopPosition": {
+                "PositionLat": 24.80711,
+                "PositionLon": 121.04805
+            },
+            "StopURL": ""
+        },
+        {
+            "StopID": "1518",
+            "StopName": {
+                "Zh_tw": "生技大樓",
+                "En": "Biotechnology Building"
+            },
+            "StopPosition": {
+                "PositionLat": 24.80589,
+                "PositionLon": 121.04886
+            },
+            "StopURL": ""
+        }
+    ]
+}

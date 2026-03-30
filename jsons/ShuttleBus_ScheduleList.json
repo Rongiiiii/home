@@ -1,0 +1,114 @@
+{
+    "UpdateTime": "2026-03-27T17:20:49+08:00",
+    "UpdateInterval": -1,
+    "AuthorityCode": "HSPB",
+    "Schedules": [
+        {
+            "RouteID": "1002A1",
+            "OperatorID": "97446339",
+            "Direction": 2,
+            "TimeTables": {
+                "TripID": 1,
+                "StopTimes": [
+                    {
+                        "StopSequence": 1,
+                        "StopID": "65872",
+                        "ArrivalTime": "15:00",
+                        "DepartureTime": "15:00",
+                        "TimeType": 1
+                    }
+                ],
+                "ServiceDay": {
+                    "Monday": 1,
+                    "Tuesday": 1,
+                    "Wednesday": 1,
+                    "Thursday": 1,
+                    "Friday": 1,
+                    "Saturday": 0,
+                    "Sunday": 0,
+                    "NationalHolidays": 0
+                }
+            }
+        },
+        {
+            "RouteID": "1002A1",
+            "OperatorID": "97446339",
+            "Direction": 2,
+            "TimeTables": {
+                "TripID": 2,
+                "StopTimes": [
+                    {
+                        "StopSequence": 1,
+                        "StopID": "65872",
+                        "ArrivalTime": "15:30",
+                        "DepartureTime": "15:30",
+                        "TimeType": 1
+                    }
+                ],
+                "ServiceDay": {
+                    "Monday": 1,
+                    "Tuesday": 1,
+                    "Wednesday": 1,
+                    "Thursday": 1,
+                    "Friday": 1,
+                    "Saturday": 0,
+                    "Sunday": 0
+                }
+            }
+        },
+        {
+            "RouteID": "1002A1",
+            "OperatorID": "97446339",
+            "Direction": 2,
+            "TimeTables": {
+                "TripID": 3,
+                "StopTimes": [
+                    {
+                        "StopSequence": 1,
+                        "StopID": "65872",
+                        "ArrivalTime": "16:00",
+                        "DepartureTime": "16:00",
+                        "TimeType": 1
+                    }
+                ],
+                "ServiceDay": {
+                    "Monday": 1,
+                    "Tuesday": 1,
+                    "Wednesday": 1,
+                    "Thursday": 1,
+                    "Friday": 1,
+                    "Saturday": 0,
+                    "Sunday": 0,
+                    "NationalHolidays": 0
+                }
+            }
+        },
+        {
+            "RouteID": "1002A1",
+            "OperatorID": "97446339",
+            "Direction": 2,
+            "TimeTables": {
+                "TripID": 4,
+                "StopTimes": [
+                    {
+                        "StopSequence": 1,
+                        "StopID": "65872",
+                        "ArrivalTime": "16:30",
+                        "DepartureTime": "16:30",
+                        "TimeType": 1
+                    }
+                ],
+                "ServiceDay": {
+                    "Monday": 1,
+                    "Tuesday": 1,
+                    "Wednesday": 1,
+                    "Thursday": 1,
+                    "Friday": 1,
+                    "Saturday": 0,
+                    "Sunday": 0,
+                    "NationalHolidays": 0
+                }
+            }
+        }
+    ]
+}

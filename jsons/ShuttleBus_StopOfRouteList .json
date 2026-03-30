@@ -1,0 +1,125 @@
+{
+    "UpdateTime": "2026-03-30T10:04:37+08:00",
+    "UpdateInterval": -1,
+    "AuthorityCode": "HSPB",
+    "StopOfRoutes": [
+        {
+            "OperatorID": "97446339",
+            "RouteID": "100101",
+            "Direction": 2,
+            "Stops": [
+                {
+                    "StopSequence": 1,
+                    "StopID": "65741",
+                    "StopName": {
+                        "Zh_tw": "科技生活館",
+                        "En": "Life Hub"
+                    },
+                    "BoardingType": 1,
+                    "StopPosition": {
+                        "PositionLon": 121.00543,
+                        "PositionLat": 24.77976
+                    }
+                },
+                {
+                    "StopSequence": 2,
+                    "StopID": "65742",
+                    "StopName": {
+                        "Zh_tw": "兆豐銀行",
+                        "En": "MEGA Bank"
+                    },
+                    "BoardingType": 0,
+                    "StopPosition": {
+                        "PositionLon": 121.00715,
+                        "PositionLat": 24.77986
+                    }
+                },
+                {
+                    "StopSequence": 3,
+                    "StopID": "65743",
+                    "StopName": {
+                        "Zh_tw": "日新樓",
+                        "En": "Rixin Building"
+                    },
+                    "BoardingType": 0,
+                    "StopPosition": {
+                        "PositionLon": 121.00822,
+                        "PositionLat": 24.77847
+                    }
+                }
+            ]
+        },
+        {
+            "OperatorID": "97446339",
+            "RouteID": "1002A1",
+            "Direction": 2,
+            "Stops": [
+                {
+                    "StopSequence": 1,
+                    "StopID": "65872",
+                    "StopName": {
+                        "Zh_tw": "科技生活館",
+                        "En": "Life Hub"
+                    },
+                    "BoardingType": 1,
+                    "StopPosition": {
+                        "PositionLon": 121.00542,
+                        "PositionLat": 24.77972
+                    }
+                },
+                {
+                    "StopSequence": 2,
+                    "StopID": "65873",
+                    "StopName": {
+                        "Zh_tw": "全友電腦",
+                        "En": "MICROTEK"
+                    },
+                    "BoardingType": 0,
+                    "StopPosition": {
+                        "PositionLon": 121.00491,
+                        "PositionLat": 24.77599
+                    }
+                },
+                {
+                    "StopSequence": 3,
+                    "StopID": "65874",
+                    "StopName": {
+                        "Zh_tw": "研發二路停車場",
+                        "En": "Parking lot(R&D 2nd Rd.)"
+                    },
+                    "BoardingType": 0,
+                    "StopPosition": {
+                        "PositionLon": 121.00199,
+                        "PositionLat": 24.77759
+                    }
+                },
+                {
+                    "StopSequence": 4,
+                    "StopID": "65875",
+                    "StopName": {
+                        "Zh_tw": "台灣應材",
+                        "En": "AMT"
+                    },
+                    "BoardingType": 0,
+                    "StopPosition": {
+                        "PositionLon": 121.00124,
+                        "PositionLat": 24.78051
+                    }
+                },
+                {
+                    "StopSequence": 5,
+                    "StopID": "65876",
+                    "StopName": {
+                        "Zh_tw": "鴻友科技",
+                        "En": "MUSTEK"
+                    },
+                    "BoardingType": 0,
+                    "StopPosition": {
+                        "PositionLon": 120.99827,
+                        "PositionLat": 24.78094
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "UpdateTime": "2026-03-30T10:12:20+08:00",
+    "UpdateInterval": -1,
+    "AuthorityCode": "HSPB",
+    "Operators": [
+        {
+            "OperatorID": "70498299",
+            "OperatorName": {
+                "Zh_tw": "新竹科技之星",
+                "En": ""
+            },
+            "OperatorPhone": "0800-050-550",
+            "OperatorEmail": "sini@yosemite-bus.com.tw",
+            "OperatorURL": "https://www.yosemite-bus.com.tw/"
+        },
+        {
+            "OperatorID": "97446339",
+            "OperatorName": {
+                "Zh_tw": "金台客運",
+                "En": ""
+            },
+            "OperatorPhone": "03-5538866",
+            "OperatorEmail": "jstour@ms48.hinet.net",
+            "OperatorURL": "http://gobus.com.tw/2024/"
+        }
+    ]
+}

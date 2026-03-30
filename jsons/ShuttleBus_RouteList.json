@@ -1,0 +1,277 @@
+{
+    "UpdateTime": "2026-03-30T10:10:03+08:00",
+    "UpdateInterval": -1,
+    "AuthorityCode": "HSPB",
+    "Routes": [
+        {
+            "OperatorID": "97446339",
+            "OperatorName": {
+                "Zh_tw": "金台客運",
+                "En": ""
+            },
+            "RouteID": "100101",
+            "RouteName": {
+                "Zh_tw": "紅線",
+                "En": "Red Line"
+            },
+            "HeadSign": "竹村住宅區→交大、光復路、公學新村→園區一、二期(三點前)",
+            "HeadSignEn": "Zhucun Residential Area→NCTU, Guangfu Rd., Gongtxaurey MViillilage→Park Avenue I&II",
+            "StartStop": {
+                "StopID": "65741",
+                "StopName": "科技生活館"
+            },
+            "EndStop": {
+                "StopID": "65805",
+                "StopName": "科技生活館"
+            },
+            "IsFreeBus": 1,
+            "FarePricingType": 0,
+            "BoardingRestriction": "",
+            "ScheduleType": 1,
+            "RouteMapImageURL": "https://traffic.sipa.gov.tw/info/紅線.pdf"
+        },
+        {
+            "OperatorID": "97446339",
+            "OperatorName": {
+                "Zh_tw": "金台客運",
+                "En": ""
+            },
+            "RouteID": "1002A1",
+            "RouteName": {
+                "Zh_tw": "紅線",
+                "En": "Red Line"
+            },
+            "HeadSign": "園區一、二期→交大、光復路、公學新村→竹村住宅區(三點後)",
+            "HeadSignEn": "Park Avenue I&II→NCTU, Guangfu Rd., Gongtxaurey MViillilage→Zhucun Residential Area",
+            "StartStop": {
+                "StopID": "65872",
+                "StopName": "科技生活館"
+            },
+            "EndStop": {
+                "StopID": "65937",
+                "StopName": "科技生活館"
+            },
+            "IsFreeBus": 1,
+            "FarePricingType": 0,
+            "BoardingRestriction": "",
+            "ScheduleType": 1,
+            "RouteMapImageURL": "https://traffic.sipa.gov.tw/info/紅線.pdf"
+        },
+        {
+            "OperatorID": "97446339",
+            "OperatorName": {
+                "Zh_tw": "金台客運",
+                "En": ""
+            },
+            "RouteID": "100301",
+            "RouteName": {
+                "Zh_tw": "綠線",
+                "En": "Green Line"
+            },
+            "HeadSign": "光復路、清大站─園區三期(三點前)",
+            "HeadSignEn": "Guangfu Rd., NTHU→Park AvenueIII(Before1500)",
+            "StartStop": {
+                "StopID": "19547",
+                "StopName": "科技生活館"
+            },
+            "EndStop": {
+                "StopID": "19590",
+                "StopName": "科技生活館"
+            },
+            "IsFreeBus": 1,
+            "FarePricingType": 0,
+            "BoardingRestriction": "",
+            "ScheduleType": 1,
+            "RouteMapImageURL": "https://traffic.sipa.gov.tw/info/綠線.pdf"
+        },
+        {
+            "OperatorID": "97446339",
+            "OperatorName": {
+                "Zh_tw": "金台客運",
+                "En": ""
+            },
+            "RouteID": "1004A1",
+            "RouteName": {
+                "Zh_tw": "綠線",
+                "En": "Green Line"
+            },
+            "HeadSign": "園區三期→光復路、清大站(三點後)",
+            "HeadSignEn": "Park AvenueIII→Guangfu Rd., NTHU(After1500)",
+            "StartStop": {
+                "StopID": "19635",
+                "StopName": "科技生活館"
+            },
+            "EndStop": {
+                "StopID": "19678",
+                "StopName": "科技生活館"
+            },
+            "IsFreeBus": 1,
+            "FarePricingType": 0,
+            "BoardingRestriction": "",
+            "ScheduleType": 1,
+            "RouteMapImageURL": "https://traffic.sipa.gov.tw/info/綠線.pdf"
+        },
+        {
+            "OperatorID": "97446339",
+            "OperatorName": {
+                "Zh_tw": "金台客運",
+                "En": ""
+            },
+            "RouteID": "100501",
+            "RouteName": {
+                "Zh_tw": "紫線",
+                "En": "Purple Line"
+            },
+            "HeadSign": "新安站(新竹)─中強光電(竹南)",
+            "HeadSignEn": "Hsin Ann Station(Hsinchu)─CORETRONIC(Jhunan)",
+            "StartStop": {
+                "StopID": "61160",
+                "StopName": "新安站"
+            },
+            "EndStop": {
+                "StopID": "61165",
+                "StopName": "竹南園區服務處"
+            },
+            "IsFreeBus": 1,
+            "FarePricingType": 0,
+            "BoardingRestriction": "",
+            "ScheduleType": 1,
+            "RouteMapImageURL": "https://traffic.sipa.gov.tw/info/紫線.pdf"
+        },
+        {
+            "OperatorID": "97446339",
+            "OperatorName": {
+                "Zh_tw": "金台客運",
+                "En": ""
+            },
+            "RouteID": "100502",
+            "RouteName": {
+                "Zh_tw": "紫線",
+                "En": "Purple Line"
+            },
+            "HeadSign": "中強光電(竹南)─新安站(新竹)",
+            "HeadSignEn": "CORETRONIC(Jhunan)─Hsin Ann Station(Hsinchu)",
+            "StartStop": {
+                "StopID": "61174",
+                "StopName": "竹南園區服務處"
+            },
+            "EndStop": {
+                "StopID": "61186",
+                "StopName": "新安站"
+            },
+            "IsFreeBus": 1,
+            "FarePricingType": 0,
+            "BoardingRestriction": "",
+            "ScheduleType": 1,
+            "RouteMapImageURL": "https://traffic.sipa.gov.tw/info/紫線.pdf"
+        },
+        {
+            "OperatorID": "97446339",
+            "OperatorName": {
+                "Zh_tw": "金台客運",
+                "En": ""
+            },
+            "RouteID": "100701",
+            "RouteName": {
+                "Zh_tw": "橘線",
+                "En": "Orange Line"
+            },
+            "HeadSign": "新竹園區─生醫園區",
+            "HeadSignEn": "Hsinchu Science Park─Hsinchu Biomedical Science Park",
+            "StartStop": {
+                "StopID": "19519",
+                "StopName": "科技生活館"
+            },
+            "EndStop": {
+                "StopID": "19525",
+                "StopName": "生技產業大樓"
+            },
+            "IsFreeBus": 1,
+            "FarePricingType": 0,
+            "BoardingRestriction": "",
+            "ScheduleType": 1,
+            "RouteMapImageURL": "https://traffic.sipa.gov.tw/info/橘線.pdf"
+        },
+        {
+            "OperatorID": "97446339",
+            "OperatorName": {
+                "Zh_tw": "金台客運",
+                "En": ""
+            },
+            "RouteID": "100702",
+            "RouteName": {
+                "Zh_tw": "橘線",
+                "En": "Orange Line"
+            },
+            "HeadSign": "生醫園區─新竹園區",
+            "HeadSignEn": "Hsinchu Biomedical Science Park─Hsinchu Science Park",
+            "StartStop": {
+                "StopID": "19511",
+                "StopName": "研發中心大樓"
+            },
+            "EndStop": {
+                "StopID": "19518",
+                "StopName": "科技生活館"
+            },
+            "IsFreeBus": 1,
+            "FarePricingType": 0,
+            "BoardingRestriction": "",
+            "ScheduleType": 1,
+            "RouteMapImageURL": "https://traffic.sipa.gov.tw/info/橘線.pdf"
+        },
+        {
+            "OperatorID": "70498299",
+            "OperatorName": {
+                "Zh_tw": "新竹科技之星",
+                "En": ""
+            },
+            "RouteID": "100901",
+            "RouteName": {
+                "Zh_tw": "綠能線",
+                "En": "Green Energy Line"
+            },
+            "HeadSign": "新竹園區─生醫園區",
+            "HeadSignEn": "Hsinchu Science Park─Hsinchu Biomedical Science Park",
+            "StartStop": {
+                "StopID": "1513",
+                "StopName": "科技生活館"
+            },
+            "EndStop": {
+                "StopID": "1518",
+                "StopName": "生技大樓"
+            },
+            "IsFreeBus": 1,
+            "FarePricingType": 0,
+            "BoardingRestriction": "",
+            "ScheduleType": 1,
+            "RouteMapImageURL": "https://traffic.sipa.gov.tw/info/綠能線.pdf"
+        },
+        {
+            "OperatorID": "70498299",
+            "OperatorName": {
+                "Zh_tw": "新竹科技之星",
+                "En": ""
+            },
+            "RouteID": "100902",
+            "RouteName": {
+                "Zh_tw": "綠能線",
+                "En": "Green Energy Line"
+            },
+            "HeadSign": "生醫園區─新竹園區",
+            "HeadSignEn": "Hsinchu Biomedical Science Park─Hsinchu Science Park",
+            "StartStop": {
+                "StopID": "1520",
+                "StopName": "研發中心"
+            },
+            "EndStop": {
+                "StopID": "1524",
+                "StopName": "科技生活館"
+            },
+            "IsFreeBus": 1,
+            "FarePricingType": 0,
+            "BoardingRestriction": "",
+            "ScheduleType": 1,
+            "RouteMapImageURL": "https://traffic.sipa.gov.tw/info/綠能線.pdf"
+        }
+    ]
+}
