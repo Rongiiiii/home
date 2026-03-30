@@ -26,7 +26,7 @@
             },
             "IsFreeBus": 1,
             "FarePricingType": 0,
-            "BoardingRestriction": "",
+            "BoardingRestriction": "11",
             "ScheduleType": 1,
             "RouteMapImageURL": "https://traffic.sipa.gov.tw/info/紅線.pdf"
         },
@@ -53,7 +53,7 @@
             },
             "IsFreeBus": 1,
             "FarePricingType": 0,
-            "BoardingRestriction": "",
+            "BoardingRestriction": "22",
             "ScheduleType": 1,
             "RouteMapImageURL": "https://traffic.sipa.gov.tw/info/紅線.pdf"
         },
@@ -107,7 +107,7 @@
             },
             "IsFreeBus": 1,
             "FarePricingType": 0,
-            "BoardingRestriction": "",
+            "BoardingRestriction": "44",
             "ScheduleType": 1,
             "RouteMapImageURL": "https://traffic.sipa.gov.tw/info/綠線.pdf"
         },
@@ -134,7 +134,7 @@
             },
             "IsFreeBus": 1,
             "FarePricingType": 0,
-            "BoardingRestriction": "",
+            "BoardingRestriction": "55",
             "ScheduleType": 1,
             "RouteMapImageURL": "https://traffic.sipa.gov.tw/info/紫線.pdf"
         },
@@ -188,7 +188,7 @@
             },
             "IsFreeBus": 1,
             "FarePricingType": 0,
-            "BoardingRestriction": "",
+            "BoardingRestriction": "77",
             "ScheduleType": 1,
             "RouteMapImageURL": "https://traffic.sipa.gov.tw/info/橘線.pdf"
         },
@@ -215,7 +215,7 @@
             },
             "IsFreeBus": 1,
             "FarePricingType": 0,
-            "BoardingRestriction": "",
+            "BoardingRestriction": "88",
             "ScheduleType": 1,
             "RouteMapImageURL": "https://traffic.sipa.gov.tw/info/橘線.pdf"
         },
@@ -242,7 +242,7 @@
             },
             "IsFreeBus": 1,
             "FarePricingType": 0,
-            "BoardingRestriction": "",
+            "BoardingRestriction": "99",
             "ScheduleType": 1,
             "RouteMapImageURL": "https://traffic.sipa.gov.tw/info/綠能線.pdf"
         },

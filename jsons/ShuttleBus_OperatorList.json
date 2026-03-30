@@ -22,6 +22,16 @@
             "OperatorPhone": "03-5538866",
             "OperatorEmail": "jstour@ms48.hinet.net",
             "OperatorURL": "http://gobus.com.tw/2024/"
+        },
+        {
+            "OperatorID": "97446339-error",
+            "OperatorName": {
+                "Zh_tw": "金台客運",
+                "En": ""
+            },
+            "OperatorPhone": "",
+            "OperatorEmail": "jstour@ms48.hinet.net",
+            "OperatorURL": "http://gobus.com.tw/2024/"
         }
     ]
 }

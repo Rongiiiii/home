@@ -74,6 +74,17 @@
                 "PositionLon": 121.04886
             },
             "StopURL": ""
+        },
+        {
+            "StopID": "1518-error",
+            "StopName": {
+                "Zh_tw": "生技大樓",
+                "En": "Biotechnology Building"
+            },
+            "StopPosition": {
+                "PositionLon": 121.04886
+            },
+            "StopURL": ""
         }
     ]
 }
