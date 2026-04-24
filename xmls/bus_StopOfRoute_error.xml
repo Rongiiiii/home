@@ -13,12 +13,12 @@
                 <Stop>
                     <StopSequence>1</StopSequence>
                     <StopID>001</StopID>
-                    <BoardingType>可上下車</BoardingType>
+                    <BoardingType>0</BoardingType>
                 </Stop>
                 <Stop>
                     <StopSequence>2</StopSequence>
                     <StopID>002</StopID>
-                    <BoardingType>可上下車</BoardingType>
+                    <BoardingType>0</BoardingType>
                 </Stop>
             </Stops>
         </StopOfRoute>
@@ -29,12 +29,11 @@
                 <Stop>
                     <StopSequence>1</StopSequence>
                     <StopID>001</StopID>
-                    <BoardingType>可上下車</BoardingType>
+                    <BoardingType>0</BoardingType>
                 </Stop>
                 <Stop>
                     <StopSequence>2</StopSequence>
                     <StopID>002</StopID>
-                    <BoardingType>可上下車</BoardingType>
                 </Stop>
             </Stops>
         </StopOfRoute>
