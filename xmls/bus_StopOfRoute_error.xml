@@ -24,7 +24,6 @@
         </StopOfRoute>
         <StopOfRoute>
             <OperatorID>29280753</OperatorID>
-            <Direction>0</Direction>
             <Stops>
                 <Stop>
                     <StopSequence>1</StopSequence>
